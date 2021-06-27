@@ -1,41 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<MPD profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2021-06-11T04:32:13Z" minimumUpdatePeriod="PT4.0S" minBufferTime="PT4.0S" publishTime="2021-06-16T12:52:58Z" timeShiftBufferDepth="PT60.0S" suggestedPresentationDelay="PT4.0S" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd">
-	<Period start="PT0S" id="1">
-		<AdaptationSet mimeType="video/mp4" startWithSAP="1" segmentAlignment="true">
-			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"></ContentProtection>
-			<ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"></ContentProtection>
-			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"><mspr:pro xmlns:mspr="urn:microsoft:playready">KAMAAAEAAQAeAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AeABiAFAAWABVAFcAOAA0AHIAegBhADIAdgBGAGYAOAAyADIAUwB1AG4AdwA9AD0APAAvAEsASQBEAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBsAGkAYwAuAGQAcgBtAHQAbwBkAGEAeQAuAGMAbwBtAC8AbABpAGMAZQBuAHMAZQAtAHAAcgBvAHgAeQAtAGgAZQBhAGQAZQByAGEAdQB0AGgALwBkAHIAbQB0AG8AZABhAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AEwAVQBJAF8AVQBSAEwAPgBoAHQAdABwAHMAOgAvAC8AcABsAGEAeQByAGUAYQBkAHkALQB1AGkALgBlAHgAYQBtAHAAbABlAC4AYwBvAG0APAAvAEwAVQBJAF8AVQBSAEwAPgA8AEMASABFAEMASwBTAFUATQA+AFoAbQBNAEcARgBNAGEAcwBOAG0AbwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro></ContentProtection>
-			<SegmentTemplate timescale="10000000" presentationTimeOffset="0" media="$RepresentationID$_Segment-$Time$.m4v" initialization="$RepresentationID$_init.m4i">
-				<SegmentTimeline>
-					<S t="4619976469590" d="40000000" r="14" />
-				</SegmentTimeline>
-			</SegmentTemplate>
-			<Representation width="320" height="180" frameRate="25" codecs="avc1.4d4020" scanType="progressive" id="1623385921152item-01item" bandwidth="200000" />
-			<Representation width="480" height="270" frameRate="25" codecs="avc1.4d4020" scanType="progressive" id="1623385921152item-02item" bandwidth="500000" />
-			<Representation width="640" height="360" frameRate="25" codecs="avc1.4d4020" scanType="progressive" id="1623385921152item-03item" bandwidth="800000" />
-			<Representation width="960" height="540" frameRate="25" codecs="avc1.4d4020" scanType="progressive" id="1623385921152item-04item" bandwidth="1200000" />
-			<Representation width="1280" height="720" frameRate="25" codecs="avc1.4d4020" scanType="progressive" id="1623385921152item-05item" bandwidth="1600000" />
-		</AdaptationSet>
-		<AdaptationSet mimeType="audio/mp4" startWithSAP="1" lang="eng" segmentAlignment="true">
-			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"></ContentProtection>
-			<ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"></ContentProtection>
-			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95"><mspr:pro xmlns:mspr="urn:microsoft:playready">KAMAAAEAAQAeAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AeABiAFAAWABVAFcAOAA0AHIAegBhADIAdgBGAGYAOAAyADIAUwB1AG4AdwA9AD0APAAvAEsASQBEAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBsAGkAYwAuAGQAcgBtAHQAbwBkAGEAeQAuAGMAbwBtAC8AbABpAGMAZQBuAHMAZQAtAHAAcgBvAHgAeQAtAGgAZQBhAGQAZQByAGEAdQB0AGgALwBkAHIAbQB0AG8AZABhAHkALwBSAGkAZwBoAHQAcwBNAGEAbgBhAGcAZQByAC4AYQBzAG0AeAA8AC8ATABBAF8AVQBSAEwAPgA8AEwAVQBJAF8AVQBSAEwAPgBoAHQAdABwAHMAOgAvAC8AcABsAGEAeQByAGUAYQBkAHkALQB1AGkALgBlAHgAYQBtAHAAbABlAC4AYwBvAG0APAAvAEwAVQBJAF8AVQBSAEwAPgA8AEMASABFAEMASwBTAFUATQA+AFoAbQBNAEcARgBNAGEAcwBOAG0AbwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</mspr:pro></ContentProtection>
-			<SegmentTemplate timescale="10000000" presentationTimeOffset="0" media="$RepresentationID$_Segment-$Time$.m4a" initialization="$RepresentationID$_init.m4i">
-				<SegmentTimeline>
-					<S t="4619976802506" d="39680000" />
-					<S t="4620016482506" d="40106667" r="1" />
-					<S t="4620096695840" d="40106666" />
-					<S t="4620136802506" d="39680000" />
-					<S t="4620176482506" d="40106667" r="1" />
-					<S t="4620256695840" d="40106666" />
-					<S t="4620296802506" d="39680000" />
-					<S t="4620336482506" d="40106667" r="1" />
-					<S t="4620416695840" d="40106666" />
-					<S t="4620456802506" d="39680000" />
-					<S t="4620496482506" d="40106667" r="1" />
-				</SegmentTimeline>
-			</SegmentTemplate>
-			<Representation audioSamplingRate="48000" codecs="mp4a.40.5" id="1623385921152item-08item" bandwidth="40000" />
-		</AdaptationSet>
-	</Period>
-</MPD>
+#EXTM3U
+#EXTINF:-1 group-title="Lokal",RCTI
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro chanel 1
+http://chronostv.com:80/cliente1812/cliente1812gg/72482?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Euro&Copa",euro chanel 2
+https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro chanel 3
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro chanel 4
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 5
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 6
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 7
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 8
+http://oqab.life:8080/live/000999/000999/237.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 9
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 10
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 11
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 12
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 13
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 14
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 1 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/222
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 2
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/223
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 3 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/224
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 4 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/225
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 5 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/226
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 6 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/227
