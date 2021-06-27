@@ -113,11 +113,25 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_480p/index.m3u
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_480p/index.m3u
 #EXTINF:-1 group-title="LOKAL usee//vidio",JAK TV Q
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u
-#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA DRAMA
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u
-#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA BIOSKOP
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u
-#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA DANGDUT
-http://zalogitv.tech:#EXTINF:-1/Rais/Rais/147
-#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",DUNIA LAIN
-http://zalogitv.tech:#EXTINF:-1/Rais/Rais/141
+paste
+ Dimzezy
+ 
+Dimzezy
+Untitled
+DIMZEZY
+JUN 27TH, 2021
+6
+NEVER
+25.46 KB
+raw download edit delete
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1412
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 2
+http://mantul.biz.id:8888/agung/agung/246
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="NASIONAL//HIBURAN", Citra Entertainment (Vidio)
+http://mantul.biz.id:8888/agung/agung/10702
+#EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="NASIONAL//HIBURAN", Citra Drama
+http://mantul.biz.id:8888/agung/agung/5285
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",Citra Bioskop
+http://mantul.biz.id:8888/agung/agung/5284
