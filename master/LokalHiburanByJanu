@@ -65,59 +65,59 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1,group-title="LOKAL usee//vidio",RCTI 2
+#EXTINF:-1 group-title="LOKAL usee//vidio",RCTI 2
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",GTV 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",GTV 1
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",RTV 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",RTV 1
 http://210.210.155.35/session/b2ef92ee-e21d-11e9-be18-c81f66f89318/qwr9ew/s/s12/02.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",TRANS TV 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",TRANS TV 1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",MNC TV 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",MNC TV 1
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",CNN
+#EXTINF:-1 group-title="LOKAL usee//vidio",CNN
 https://live.cnnLOKAL usee//vidio usee//vidio.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",CBNC
+#EXTINF:-1 group-title="LOKAL usee//vidio",CBNC
 https://live.cnbcLOKAL usee//vidio usee//vidio.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",BERITA SATU
+#EXTINF:-1 group-title="LOKAL usee//vidio",BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",TVONE 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",TVONE 1
 http://210.210.155.35/qwr9ew/s/s105/02.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",ANTV 1
+#EXTINF:-1 group-title="LOKAL usee//vidio",ANTV 1
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",RCTI Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",RCTI Z
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",SCTV Q
+#EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Q
 http://103.88.170.102:8000/play/sctv/index.m3u8
-#EXTINF:-1,group-title="LOKAL usee//vidio",SCTV Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Z
 http://210.210.155.35/qwr9ew/s/s03/02.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",INDOSIAR Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR Z
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
-#EXTINF:-1,group-title="LOKAL usee//vidio",INDOSIAR Q
+#EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR Q
 http://210.210.155.35/qwr9ew/s/s04/01.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",INDOSIAR E
+#EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR E
 http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",NET TV Q
+#EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Q
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",NET TV Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Z
 http://210.210.155.35/qwr9ew/s/s08/01.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",TRANS TV Q
+#EXTINF:-1 group-title="LOKAL usee//vidio",TRANS TV Q
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",TRANS E
+#EXTINF:-1 group-title="LOKAL usee//vidio",TRANS E
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",GTV Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",GTV Z
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",O CHANNEL 
+#EXTINF:-1 group-title="LOKAL usee//vidio",O CHANNEL 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_480p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",JAK TV Z
+#EXTINF:-1 group-title="LOKAL usee//vidio",JAK TV Z
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_480p/index.m3u
-#EXTINF:-1,group-title="LOKAL usee//vidio",JAK TV Q
+#EXTINF:-1 group-title="LOKAL usee//vidio",JAK TV Q
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u
-#EXTINF:-1,group-title="ENTERTAINMENT usee//vidio",CITRA DRAMA
+#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA DRAMA
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u
-#EXTINF:-1,group-title="ENTERTAINMENT usee//vidio",CITRA BIOSKOP
+#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA BIOSKOP
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u
-#EXTINF:-1,group-title="ENTERTAINMENT usee//vidio",CITRA DANGDUT
+#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",CITRA DANGDUT
 http://zalogitv.tech:#EXTINF:-1/Rais/Rais/147
-#EXTINF:-1,group-title="ENTERTAINMENT usee//vidio",DUNIA LAIN
+#EXTINF:-1 group-title="ENTERTAINMENT usee//vidio",DUNIA LAIN
 http://zalogitv.tech:#EXTINF:-1/Rais/Rais/141
