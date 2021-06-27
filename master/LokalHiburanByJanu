@@ -65,10 +65,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV Usee Tv
-https://raw.githubusercontent.com/AuliaTzy/Janu/main/master/Des12.m3u8%3FDimz%3DUseeTransTv
-#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV Usee Tv
-https://raw.githubusercontent.com/AuliaTzy/master/main/NetTv.m3u8
-#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7 Usee TV
-https://raw.githubusercontent.com/AuliaTzy/master/main/Trans7.m3u8
-q
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="LOKAL usee//vidio", TRANSTV USEE
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387526
+#EXTINF: -1  group-title="LOKAL usee//vidio", TRANS 7 Usee
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387528
+#EXTINF: -1  group-title="LOKAL usee//vidio", TRANS 7 LIVE
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387529
+#EXTINF: -1 group-title="ENTERTAIMENT usee//vidio", DUNIA LAIN
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388071
