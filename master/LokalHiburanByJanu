@@ -71,7 +71,13 @@ https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387526
 https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387528
 #EXTINF: -1  group-title="LOKAL usee//vidio", TRANS 7 LIVE
 https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387529
-#EXTINF: -1 group-title="ENTERTAIMENT usee//vidio", DUNIA LAIN
-https://raw.githubusercontent.com/AuliaTzy/master/04178d81523a0583a60037080d546a82db5b9812/Dunia%20Lain.m3u8
-#EXTINF: -1 group-title="ENTERTAIMENT usee//vidio", DUNIA LAIN 2
-https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319388071
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1412
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 2
+http://mantul.biz.id:8888/agung/agung/246
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="NASIONAL//HIBURAN", Citra Entertainment (Vidio)
+http://mantul.biz.id:8888/agung/agung/10702
+#EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="NASIONAL//HIBURAN", Citra Drama
+http://mantul.biz.id:8888/agung/agung/5285
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",Citra Bioskop
+http://mantul.biz.id:8888/agung/agung/5284
