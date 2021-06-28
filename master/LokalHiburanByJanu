@@ -125,234 +125,142 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1318
 http://gooserace.xyz:2052/darshan/darshan/1109814
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 
 http://zalogitv.tech:8080/Hidayat/Hidayat/1412
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", DUNIA LAIN
-http://gpc.my.id/usee/dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="LOKAL usee//vidio", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png" group-title="NASIONAL//HIBURAN", CITRA DRAMA
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="NASIONAL//HIBURAN", CITRA BIOSKOP
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="NASIONAL//HIBURAN", DUNIA LAIN
-http://gpc.my.id/usee/dunialain.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", DUNIA LAIN 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="NASIONAL//HIBURAN", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="NASIONAL//HIBURAN", CARTOON NETWORK
-http://rec2.distv.net:80/aurora/123456/124
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="NASIONAL//HIBURAN", CARTOON NETWORK (ASIA) 
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="NASIONAL//HIBURAN", CARTOON NETWORK (PAK) 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2a347e9e75008c7.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="NASIONAL//HIBURAN", KIDS TV
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162505
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="NASIONAL//HIBURAN", NICK (ASIA) 
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="LOKAL usee//vidio", 1. SCTV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="LOKAL usee//vidio", 2. SCTV
 http://gpc.my.id/vidio/sctv.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="LOKAL usee//vidio", 3. Indosiar HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="LOKAL usee//vidio", 4. Indosiar
 https://tv.aryakrida.com/live/indosiar.m3u8
 http://gpc.my.id/vidio/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="LOKAL usee//vidio", Citra Muslim
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6678.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="LOKAL usee//vidio", 5. RCTI HD
 http://gpc.my.id/vidio/rcti.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="LOKAL usee//vidio", 6. RCTI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
-
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="LOKAL usee//vidio", 7. MNCTV HD
 http://gpc.my.id/vidio/mnc.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
-
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="LOKAL usee//vidio", 8. MNCTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="LOKAL usee//vidio", 9. GTV HD
 http://gpc.my.id/vidio/gtv.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="LOKAL usee//vidio", 10. GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="LOKAL usee//vidio", 11. iNEWS HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="LOKAL usee//vidio", 12. iNEWS
 http://gpc.my.id/vidio/inews.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
-
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="LOKAL usee//vidio", AshillTV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="LOKAL usee//vidio", 13. TRANS TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
-
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="LOKAL usee//vidio", 14. TRANS TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
 http://gpc.my.id/vidio/transtv.m3u8
-
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="LOKAL usee//vidio", 15. TRANS 7 HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
-
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="LOKAL usee//vidio", 16. TRANS 7
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 http://gpc.my.id/vidio/trans7.m3u8
-
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="LOKAL usee//vidio", TRANS 7 (MotoGP)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/usee/trans7.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="LOKAL usee//vidio", 17 . Net.TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="LOKAL usee//vidio", 18. Net.TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="LOKAL usee//vidio", 19. TVRI HD
 http://gpc.my.id/vidio/tvri.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="LOKAL usee//vidio", 20. TVRI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="LOKAL usee//vidio", 21. RTV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 http://gpc.my.id/vidio/rtv.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="LOKAL usee//vidio", 21. RTV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 http://gpc.my.id/usee/rtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="LOKAL usee//vidio", HBO
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
- 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="LOKAL usee//vidio", HBO Hits
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" group-title="LOKAL usee//vidio", HBO Family
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="LOKAL usee//vidio", HBO Signature
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="LOKAL usee//vidio",Red By HBO
 https://tv.aryakrida.com/live/hbo/RED.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="LOKAL usee//vidio",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="LOKAL usee//vidio", 22. Kompas TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="LOKAL usee//vidio", 23. Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="LOKAL usee//vidio", 24. TVONE HD
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="LOKAL usee//vidio", 25. TVONE
 http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="LOKAL usee//vidio", 26. Metro TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="LOKAL usee//vidio", 27. Metro TV
 http://gpc.my.id/vidio/metrotv.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="LOKAL usee//vidio", 28. ANTV
 https://tv.aryakrida.com/live/antv.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="LOKAL usee//vidio", 29. ANTV HD
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_499968=4.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL usee//vidio", 31. JTV
 http://cdn4.mbahnunungonline.net/m3u8/33a7e98c230ae2f.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL usee//vidio", 31. JTV HD
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="LOKAL usee//vidio",  SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="",group-title="LOKAL usee//vidio", DTIVI 
 http://dtivi.siar.us/dtivi/live/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="LOKAL usee//vidio", 32. MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="LOKAL usee//vidio", 32. MALEO TV 2
 https://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
-
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="LOKAL usee//vidio", POP Musik 
 https://cdn4.mbahnunungonline.net/m3u8/94a637fadb57201.m3u8 
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjiMCsgYDqjs0JpchNyWi4Iu6rZ_8IFN9IXnkR4=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL usee//vidio", 33. SANGAJI TV
 https://v6.siar.us/sangajitv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="LOKAL usee//vidio" 34. JawaPos TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="LOKAL usee//vidio" 35. TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="LOKAL usee//vidio", 36. BERITA SATU HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/vidio/beritasatu.m3u8
-
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL usee//vidio", 37. JAK TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
-
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL usee//vidio", 37. JAK TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5415
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="LOKAL usee//vidio", 38. Daai TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="LOKAL usee//vidio",39. Mytv
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="LOKAL usee//vidio",40. Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="LOKAL usee//vidio",40. Magna TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="LOKAL usee//vidio", 42. O Channel HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="LOKAL usee//vidio", 43. O Channel
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
- 
 #EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/og-image-e7efa10e51acf77c67c3c5c46908bbb1091ab3a469b3ccd4c7ba9a26b52c8345.jpg" group-title="LOKAL usee//vidio", MUSICA VIDIO
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
-
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Drama
 http://zalogitv.tech:8080/Hidayat/Hidayat/1376
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY CHANNEL
@@ -449,8 +357,317 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/517
 http://zalogitv.tech:8080/Hidayat/Hidayat/1432
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA
 http://zalogitv.tech:8080/Hidayat/Hidayat/1800
-#EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA 2
-http://gooserace.xyz:2052/darshan/darshan/2599215
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="LOKAL usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?1
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="LOKAL usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="LOKAL usee//vidio",useeinfo_USEE
+http://gpc.my.id/usee/useeinfo.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="LOKAL usee//vidio",useephoto_USEE
+http://gpc.my.id/usee/useephoto.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useeprime_USEE" group-title="LOKAL usee//vidio",useeprime_USEE
+http://gpc.my.id/usee/useeprime.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tvri" group-title="LOKAL usee//vidio",tvri
+http://gpc.my.id/vidio/tvri.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="LOKAL usee//vidio",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="indosiar" group-title="LOKAL usee//vidio",indosiar
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans-tv" group-title="LOKAL usee//vidio",trans-tv
+http://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="mnc" group-title="LOKAL usee//vidio",mnc
+http://gpc.my.id/vidio/mnc.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="LOKAL usee//vidio",rcti
+http://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="sctv" group-title="LOKAL usee//vidio",sctv
+http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="BathokGpc" tvg-name="gtv" group-title="LOKAL usee//vidio",gtv
+http://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="net-tv" group-title="LOKAL usee//vidio",net-tv
+http://gpc.my.id/vidio/net-tv.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="Tv-One" group-title="LOKAL usee//vidio",Tv-One
+http://gpc.my.id/ytlive/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans7" group-title="LOKAL usee//vidio",trans7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rrinet_USEE" group-title="LOKAL usee//vidio",rrinet_USEE
+http://gpc.my.id/usee/rrinet.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="LOKAL usee//vidio",beritasatu
+http://gpc.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="balitv_USEE" group-title="LOKAL usee//vidio",balitv_USEE
+http://gpc.my.id/usee/balitv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="LOKAL usee//vidio",metro-tv
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="LOKAL usee//vidio",kompas-tv
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_iNEWS usee//vidio_small.png" tvg-id="BathokGpc" tvg-name="iNEWS usee//vidio" group-title="LOKAL usee//vidio",iNEWS usee//vidio
+http://gpc.my.id/vidio/iNEWS usee//vidio.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="LOKAL usee//vidio",CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="LOKAL usee//vidio",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="LOKAL usee//vidio",antara_USEE
+http://gpc.my.id/usee/antara.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jtv_USEE" group-title="LOKAL usee//vidio",jtv_USEE
+http://gpc.my.id/usee/jtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jaktv" group-title="LOKAL usee//vidio",jaktv
+http://gpc.my.id/vidio/jaktv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="LOKAL usee//vidio",tawaftv_USEE
+http://gpc.my.id/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6045a3372f9c6a0001d0d8c9/picture" tvg-id="BathokGpc" tvg-name="ochannel" group-title="LOKAL usee//vidio",ochannel
+http://gpc.my.id/vidio/ochannel.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="uchannel_USEE" group-title="LOKAL usee//vidio",uchannel_USEE
+http://gpc.my.id/usee/uchannel.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rtv" group-title="LOKAL usee//vidio",rtv
+http://gpc.my.id/vidio/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="LOKAL usee//vidio",rodjatv_USEE
+http://gpc.my.id/usee/rodjatv.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q" tvg-id="BathokGpc" tvg-name="ajwa-tv" group-title="LOKAL usee//vidio",ajwa-tv
+http://gpc.my.id/vidio/ajwa-tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-id="BathokGpc" tvg-name="mytv" group-title="LOKAL usee//vidio",mytv
+http://gpc.my.id/vidio/mytv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="nusantara-tv" group-title="LOKAL usee//vidio",nusantara-tv
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="daai-tv" group-title="LOKAL usee//vidio",daai-tv
+http://gpc.my.id/vidio/daai-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="LOKAL usee//vidio",muitv_USEE
+http://gpc.my.id/usee/muitv.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="LOKAL usee//vidio",Fatwa TV
+http://gpc.my.id/ytlive/fatwa-tv.m3u8
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="SPORT usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?3
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="SPORT usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISPORT usee//vidioHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT usee//vidio" group-title="SPORT usee//vidio",TVRI-SPORT usee//vidio
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-1" group-title="SPORT usee//vidio",champion-tv-1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-2" group-title="SPORT usee//vidio",champion-tv-2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" tvg-id="BathokGpc" tvg-name="champion-tv-3" group-title="SPORT usee//vidio",champion-tv-3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-SPORT usee//vidio" group-title="SPORT usee//vidio",ZQ-SPORT usee//vidio
+https://stream.zqprem.com/zqSPORT usee//vidio-sec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-SPORT usee//vidio2" group-title="SPORT usee//vidio",ZQ-SPORT usee//vidio2
+https://stream.zqprem.com/zqdrama-sec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-SPORT usee//vidio-1432658408.jpg" tvg-id="BathokGpc" tvg-name="Viasat-SPORT usee//vidio" group-title="SPORT usee//vidio",Viasat-SPORT usee//vidio
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Bein1" group-title="SPORT usee//vidio",Bein1
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Bein2" group-title="SPORT usee//vidio",Bein2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxSPORT usee//vidios1_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSPORT usee//vidio1" group-title="SPORT usee//vidio",FoxSPORT usee//vidio1
+https://livecdn.fptplay.net/qnetlive/foxSPORT usee//vidios_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxSPORT usee//vidios2_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSPORT usee//vidio2" group-title="SPORT usee//vidio",FoxSPORT usee//vidio2
+https://livecdn.fptplay.net/qnetlive/foxSPORT usee//vidios2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxSPORT usee//vidios3_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSPORT usee//vidio3" group-title="SPORT usee//vidio",FoxSPORT usee//vidio3
+https://livecdn.fptplay.net/qnetlive/foxSPORT usee//vidios3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://img.SPORT usee//vidio-tv-guide.live/images/tv-station-astro-superSPORT usee//vidio-1-253.png" tvg-id="BathokGpc" tvg-name="AstroSuperSPORT usee//vidio1" group-title="SPORT usee//vidio",AstroSuperSPORT usee//vidio1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.SPORT usee//vidio-tv-guide.live/images/tv-station-astro-superSPORT usee//vidio-2-254.png" tvg-id="BathokGpc" tvg-name="AstroSuperSPORT usee//vidio2" group-title="SPORT usee//vidio",AstroSuperSPORT usee//vidio2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.SPORT usee//vidio-tv-guide.live/images/tv-station-astro-superSPORT usee//vidio-3-255.png" tvg-id="BathokGpc" tvg-name="AstroSuperSPORT usee//vidio3" group-title="SPORT usee//vidio",AstroSuperSPORT usee//vidio3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.SPORT usee//vidio-tv-guide.live/images/tv-station-astro-superSPORT usee//vidio-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSPORT usee//vidio4" group-title="SPORT usee//vidio",AstroSuperSPORT usee//vidio4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?1
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="tvn" group-title="NASIONAL//HIBURAN",tvn
+http://gpc.my.id/vidio/tvn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="NASIONAL//HIBURAN",zee-bioskop
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="BathokGpc" tvg-name="citra-bioskop" group-title="NASIONAL//HIBURAN",citra-bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" group-title="NASIONAL//HIBURAN",citra-drama
+http://gpc.my.id/vidio/citra-drama.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="NASIONAL//HIBURAN",citra-dangdut
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_NASIONAL//HIBURAN_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-NASIONAL//HIBURAN" group-title="NASIONAL//HIBURAN",citra-NASIONAL//HIBURAN
+http://gpc.my.id/vidio/citra-NASIONAL//HIBURAN.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="NASIONAL//HIBURAN",zing
+http://gpc.my.id/vidio/zing.m3u8
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="NASIONAL//HIBURAN",magna-tv
+http://gpc.my.id/vidio/magna-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="NASIONAL//HIBURAN",pramborstv_USEE
+http://gpc.my.id/usee/pramborstv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="NASIONAL//HIBURAN",musica
+http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="NASIONAL//HIBURAN",chinesedrama_USEE
+http://gpc.my.id/usee/chinesedrama.m3u8
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" group-title="NASIONAL//HIBURAN",mola-tv-free
+http://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="NASIONAL//HIBURAN",cctv4_USEE
+http://gpc.my.id/usee/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="NASIONAL//HIBURAN",outdoor_USEE
+http://gpc.my.id/usee/outdoor.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="NASIONAL//HIBURAN",nhkworld_USEE
+http://gpc.my.id/usee/nhkworld.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="NASIONAL//HIBURAN",eljohn_USEE
+http://gpc.my.id/usee/eljohn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="NASIONAL//HIBURAN",arirang_USEE
+http://gpc.my.id/usee/arirang.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="NASIONAL//HIBURAN",The K-POP
+http://gpc.my.id/ytlive/the-kpop.m3u8
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NEWS usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?1
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NEWS usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?2
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="NEWS usee//vidio",metro-tv
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncNEWS usee//vidio_small.png" tvg-id="BathokGpc" tvg-name="mncNEWS usee//vidio_USEE" group-title="NEWS usee//vidio",mncNEWS usee//vidio_USEE
+http://gpc.my.id/usee/mncNEWS usee//vidio.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="NEWS usee//vidio",kompas-tv
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="BathokGpc" tvg-name="idx_USEE" group-title="NEWS usee//vidio",idx_USEE
+http://gpc.my.id/usee/idx.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="sea-today" group-title="NEWS usee//vidio",sea-today
+http://gpc.my.id/vidio/sea-today.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_iNEWS usee//vidio_small.png" tvg-id="BathokGpc" tvg-name="iNEWS usee//vidio" group-title="NEWS usee//vidio",iNEWS usee//vidio
+http://gpc.my.id/vidio/iNEWS usee//vidio.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="NEWS usee//vidio",CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="NEWS usee//vidio",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dw-english" group-title="NEWS usee//vidio",dw-english
+http://gpc.my.id/vidio/dw-english.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="NEWS usee//vidio",beritasatu
+http://gpc.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="BathokGpc" tvg-name="abcaustralia_USEE" group-title="NEWS usee//vidio",abcaustralia_USEE
+http://gpc.my.id/usee/abcaustralia.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dwtv_USEE" group-title="NEWS usee//vidio",dwtv_USEE
+http://gpc.my.id/usee/dwtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="BathokGpc" tvg-name="trtworld_USEE" group-title="NEWS usee//vidio",trtworld_USEE
+http://gpc.my.id/usee/trtworld.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="france24_USEE" group-title="NEWS usee//vidio",france24_USEE
+http://gpc.my.id/usee/france24.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="NEWS usee//vidio",seatoday_USEE
+http://gpc.my.id/usee/seatoday.m3u8
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+http://gpc.my.id/kopi.ts?1
+#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+http://gpc.my.id/kopi.ts?2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="NASIONAL//HIBURAN",hip-hip-horee
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="NASIONAL//HIBURAN",zoomoo
+http://gpc.my.id/vidio/zoomoo.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="NASIONAL//HIBURAN",da-vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="NASIONAL//HIBURAN",horee
+http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="NASIONAL//HIBURAN",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="NASIONAL//HIBURAN",mykids_USEE
+http://gpc.my.id/usee/mykids.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpasSPORT usee//vidio.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="NASIONAL//HIBURAN",smithsonian
+http://gpc.my.id/vidio/smithsonian.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="NASIONAL//HIBURAN",tv-edukasi
+http://gpc.my.id/vidio/tv-edukasi.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpasSPORT usee//vidio.com/image/station/240x135/lovenature.png" tvg-id="BathokGpc" tvg-name="love-nature" group-title="NASIONAL//HIBURAN",love-nature
+http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="NASIONAL//HIBURAN",cgtndocumentary_USEE
+http://gpc.my.id/usee/cgtndocumentary.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
+https://iptv-1qnlt1461-mwafa.vercel.app/api/yt?id=yeXkLCFIuCU
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=204
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=665
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=733
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS 7
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=734
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="nasional", MNCTV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=870
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="nasional", GTV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=778
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METROTV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=777
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=875
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=205
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="nasional", INEWS
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=5409
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="nasional", RTV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=1561
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=874
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="nasional", TVRI
+https://iptv-1qnlt1461-mwafa.vercel.app/api/vidio?id=6441
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="local", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRSCLN9r/14040386.jpg" group-title="local", TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI DKI JAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VH7TANA.png" group-title="local", TVRI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="local", TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA TIMUR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="local", TVRI KANAL 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="news", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png" group-title="news", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="music", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYx2hPRP/logo200.jpg" group-title="music", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8HsQ87W/Radio51-20-Music-TV-20133.png" group-title="music", RADIO 51 TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="music", RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
 #EXTINF:-1 group-title="LOKAL usee//vidio",TV INDO
 http://gooserace.xyz:2052/darshan/darshan/1109808
 #EXTINF:-1 group-title="LOKAL usee//vidio",TV INDO
@@ -1235,449 +1452,3 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
  
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="http://kamiselaluada.com/img/awani.png", Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8    
-
-
-
-
-
-
-#EXTINF:70 group-title="VOD Indo",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-#EXTINF:-1 group-title="VOD Indo",Abracadabra (2020)
-https://lh3.googleusercontent.com/wLQfEg1_JruUxlr_HET2_FQj74IRmQJmAxSuRetTHmav1ChfOAGSNN_DRZ4e3UJOm81SWFxybUzYxghYxw=m22
-
-
-#EXTINF:70 group-title="VOD_Barat",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-#EXTINF:-1 group-title="VOD_Barat",The Marksman (2021)
-https://s2.acefile.co/V3/files/f64f11912716a5799be4edb77dfc8d61.mp4
-#EXTINF:-1 group-title="VOD_Barat",Locked Down
-https://a-delivery29.mxdcontent.net/v/1011be6c6eb556eedec3a7961878220f.mp4?s=ku6Tdm8WGvV9Vo7AttIQwA&e=1618148859&_t=1618129622
-#EXTINF:-1 group-title="VOD_Barat",Caged
-https://www.googleapis.com/drive/v3/files/1j3l8Z_3m_jdGJpJfw9lchyymZdY5kWBZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD_Barat",Psycho Goreman
-https://www.googleapis.com/drive/v3/files/1GCWSXe0qK8r_nKkZVCDmWMLuqEEshHXw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD_Barat",Goodbye, Butterfly
-https://s2.acefile.co/V3/files/eab72827535189d95024cd0d83949c22.mp4
-#EXTINF:-1 group-title="VOD_Barat",Battle in Space The Armada Attacks
-https://www.googleapis.com/drive/v3/files/18h65n402-l4rAMDBdmhM67-dCyvoQkus?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD_Barat",One Night in Miami…
-https://www.googleapis.com/drive/v3/files/1Alj4qmV0PIvEudEnl9wVXHiaqF0L5CMK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD_Barat",Outside the Wire
-https://pixeldrain.com/api/file/uMeURFRi
-#EXTINF:-1 group-title="VOD_Barat",Redemption Day
-https://www183.ff-01.com/token=E01HQkpOFQ_zEXwoiRxPkA/1618136792/103.88.0.0/141/e/d1/415a900cd583f4663ee117700d7cfd1e-360p.mp4
-#EXTINF:-1 group-title="VOD_Barat",SPECIAL FORCES
-https://vod2.useetv.com/vod/mp4:vod/vod/video/freemovie/NPV200084_SPECIAL_FORCES_SD_QC.mp4/chunklist_w1954287332.m3u8?enc=az4o0XggIblgRt8PHgEw7Q&exp=1605615004
-#EXTINF:-1 group-title="VOD_Barat",THE HURRICANE HEIST
-https://vod2.useetv.com/vod/mp4:vod/vod/video/freemovie/NPV200098_THE_HURRICANE_HEIST_SD_QC.mp4/chunklist_w1445493437.m3u8?enc=Foy5Nuou6nJUB5FzZecOeA&exp=1605615119
-#EXTINF:-1 group-title="VOD_Barat",MANCHESTER BY THE SEA
-https://vod2.useetv.com/vod/mp4:vod/vod/video/freemovie/NPV200071_MANCHESTER_BY_THE_SEA_SD_QC.mp4/chunklist_w1588562171.m3u8?enc=ZlV-xIgClL8aH5g3d5VuBg&exp=1605615279
-#EXTINF:-1 group-title="VOD_Barat",Held
-https://pixeldrain.com/api/file/UZNEur27
-#EXTINF:-1 group-title="VOD_Barat",Thunder Force
-https://pixeldrain.com/api/file/B967PuBt
-#EXTINF:-1 group-title="VOD_Barat",Godzilla Vs Kingkong
-https://pixeldrain.com/api/file/eG2jNoUX
-
-#EXTINF:70 group-title="VOD Series Korea",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64eiLFqydlGXYF0A4IQKMddUhlb.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/16764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWHgZc5zlMnDyWQzSMcqMYg16Fu.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/16765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUJWCnhpi4XyERJZPGmelDDtKLY.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/16766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSXyA9z55fUn1LSfCDKeuEVXFQv.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/16767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWTA5f5OeJ6HqE6HxFnafnRtagH.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/16768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1f5lk1i4CDGpD6J5VDMUlyZumR.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/16769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWo7yyCus0yTZcw6uKYFUVRqeLt.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/16770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loXT3Yq661lsMXK6xkOOBc8N181.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/16771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/16772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/16773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/16774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="VOD Series Korea",Orange Marmalade S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/16775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sg3dk2MC8rHSSudVp6Vhc4EraS.jpg" group-title="VOD Series Korea",Chief of Staff S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/17019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqdXwwIpzAAJaklzawFP1aPaizq.jpg" group-title="VOD Series Korea",Chief of Staff S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/17020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4TuIVZDnMRJ4ewFVxB1q2mWxJ8.jpg" group-title="VOD Series Korea",Chief of Staff S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/17021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1B9i1JAdVZWUYTcBEyy5drI5er.jpg" group-title="VOD Series Korea",Chief of Staff S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/17022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvrAh4O8S0WME13EWoY7HN115Mw.jpg" group-title="VOD Series Korea",Chief of Staff S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/17023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehX6cNf3melCifatxYkkuaFOpIR.jpg" group-title="VOD Series Korea",Chief of Staff S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/17024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN4pEKRdt123C9CwFdJz1zy3Thl.jpg" group-title="VOD Series Korea",Chief of Staff S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/17025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L769smseYr1J86zdlk76vlOEwS.jpg" group-title="VOD Series Korea",Chief of Staff S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/17026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euO0W7zobgVvYXNtEmxjwdaGUGl.jpg" group-title="VOD Series Korea",Chief of Staff S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/17027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/mRZj2Rd6UtDpTjNAR4RB0855stA.jpg" group-title="VOD Series Korea",Chief of Staff S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/32773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pNbeLRrMoff6liSMsmZGp3iEcZ.jpg" group-title="VOD Series Korea",Chief of Staff S02 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/32774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XBS2csHLKrXZXyH2TmM8A1semv.jpg" group-title="VOD Series Korea",Chief of Staff S02 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/32775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k77lh1e7aLYLx2yxEn0zml7Kxcx.jpg" group-title="VOD Series Korea",Chief of Staff S02 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/32776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evqVreARu5XWGINXm2Hqk5PRglX.jpg" group-title="VOD Series Korea",Chief of Staff S02 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/32777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6qX4FznVfSyj8wiOlKcjB1tRBd.jpg" group-title="VOD Series Korea",Chief of Staff S02 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/32778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRroQqeeD3Bl2B7UGc8IJb7uyt.jpg" group-title="VOD Series Korea",Chief of Staff S02 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/32779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2kUIfsY7TANPpe6vacrqeXje6O.jpg" group-title="VOD Series Korea",Chief of Staff S02 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/32780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZw6s9Y5X6UY5b42CUtYmw0fvBQ.jpg" group-title="VOD Series Korea",Chief of Staff S02 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/32781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL85KkR1JlFssWs3SyjtZ2WSVxD.jpg" group-title="VOD Series Korea",Chief of Staff S02 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/32782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zArz48jdc5KqvFRIcO8GtkUNCSG.jpg" group-title="VOD Series Korea",Chief of Staff S02 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/32783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Chd4k2IdX4DgjKRmQjvdxcnOMa.jpg" group-title="VOD Series Korea",Are You Human? S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/23709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJJ6UlAG1b1qkHopwEdJhoMV3Uo.jpg" group-title="VOD Series Korea",Are You Human? S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/23710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRWDL5s0mJ062Krj1tZ4LOqFEkZ.jpg" group-title="VOD Series Korea",Are You Human? S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/23711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hETp4ha3azMJFaR2sA3pgazwSmd.jpg" group-title="VOD Series Korea",Are You Human? S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/23712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UEU8jK27TphIwfI9VGllKUcdMr.jpg" group-title="VOD Series Korea",Are You Human? S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/23713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcZ8EUtMiZuCFSVaNUfwDshjPfV.jpg" group-title="VOD Series Korea",Are You Human? S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/23714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3G1EMHd1294NYNU0fWtMe1ytv3.jpg" group-title="VOD Series Korea",Are You Human? S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/23715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DRwEVwElk72Qmk330myktOzGF0.jpg" group-title="VOD Series Korea",Are You Human? S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/23716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHYL47pceFptOyt6Xhex6iHOFWf.jpg" group-title="VOD Series Korea",Are You Human? S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/23717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSwp1bgVYPJMuW0JW1lyeVZ99Vx.jpg" group-title="VOD Series Korea",Are You Human? S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/23718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ysaJ3PRH47zpOJ7OHezMcf7PJK.jpg" group-title="VOD Series Korea",Are You Human? S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/23719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaRsKtbLC6Qe7gNyN3tjBO7aDkK.jpg" group-title="VOD Series Korea",Are You Human? S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/23720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0TezB68ZdSBpGVRqmAy7wEbfDM.jpg" group-title="VOD Series Korea",Are You Human? S01 E13
-https://nonton.site:8443/series/Akhbar/Fadilah/23721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHt91LhdzOQsfzV3zyPVivbWOjM.jpg" group-title="VOD Series Korea",Are You Human? S01 E14
-https://nonton.site:8443/series/Akhbar/Fadilah/23722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohWLnxA5GgNyuh2Nu65HOiyNHX7.jpg" group-title="VOD Series Korea",Are You Human? S01 E15
-https://nonton.site:8443/series/Akhbar/Fadilah/23723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lufGPtOe1s9ZpplV1zIk6FHVXVF.jpg" group-title="VOD Series Korea",Are You Human? S01 E16
-https://nonton.site:8443/series/Akhbar/Fadilah/23724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwMtnhGnSCjPzyHBtR58Jl8WjMb.jpg" group-title="VOD Series Korea",Are You Human? S01 E17
-https://nonton.site:8443/series/Akhbar/Fadilah/23725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNzD1I8KBfHP1vfBdqSnNV8v6wz.jpg" group-title="VOD Series Korea",Are You Human? S01 E18
-https://nonton.site:8443/series/Akhbar/Fadilah/23726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/23833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/23832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/23831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXlwSA14RtOwPyKtGhO0JJ9Wn7v.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/23815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTap9guhI30Y1oIqVLNpqlGcRXx.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/23816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfTXRWYvMbtaSiG7OvFer58xvVZ.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/23817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkLrN7y42yhCnfpMXp4uuPrhRHD.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/23818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljpog4r8ag4rc8DD8vtX1YOa4nP.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/23819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qq2FDYbH8fjAjPEmHF74HxVIst.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/23820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zu8bVV1SfjJsDd9cHIFo5T8z9U.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/23821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xnMRBsGtQGitSfRvZR5r2MtMj4.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/23822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN2qLOArZIVFcXIpqz2Mc4gwmeF.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/23823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex5E8or6LaVjfaE2Dmxpx9dZgcw.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E13
-https://nonton.site:8443/series/Akhbar/Fadilah/23824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqPKGqnJIEc7HIsYOhRqiUIBBs.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E14
-https://nonton.site:8443/series/Akhbar/Fadilah/23825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee3hlcRP7taSaEjJp5ooyg6uL74.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E15
-https://nonton.site:8443/series/Akhbar/Fadilah/23826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t7z64JuyN4rCpTY7LVZHywoxyh.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E16
-https://nonton.site:8443/series/Akhbar/Fadilah/23827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSij4jaKBkvLb0saIIqIzhwxsgy.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E17
-https://nonton.site:8443/series/Akhbar/Fadilah/23828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD3F1tHDVHbSseGWhKMwW8YHsu9.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E18
-https://nonton.site:8443/series/Akhbar/Fadilah/23829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2qJ4T5C2jmdwN9gK2RTkvYHxzg.jpg" group-title="VOD Series Korea",Descendants of the Sun S01 E19
-https://nonton.site:8443/series/Akhbar/Fadilah/23830.mp4
-
-
-#EXTINF:70 group-title="VOD Serial",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rH7XMZai3JdGi83e7bWMXJxXk4k.jpg" group-title="VOD Serial",See S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/4922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnBZ9eY01nzNAWPf691UySZVcI0.jpg" group-title="VOD Serial",See S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/4921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg" group-title="VOD Serial",See S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/4920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke3j6KhQmJBjLneunuG6yaSePzU.jpg" group-title="VOD Serial",See S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/4919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg" group-title="VOD Serial",See S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/4918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg" group-title="VOD Serial",See S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/9207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg" group-title="VOD Serial",See S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/9208.mp4
-
-
-#EXTINF:70 group-title="VOD Drakor",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP1
-https://www.googleapis.com/drive/v3/files/18Z0paDM81YZmLRbW6QxczEEkTpfSbEJA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP2
-https://www.googleapis.com/drive/v3/files/113UEqkPW8hG2bgvuiEjcW2RVCflYuVKM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP3
-https://www.googleapis.com/drive/v3/files/1a4mU6AR5eNewmDX7X4-f9w9piozhHp8r?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP4
-https://www.googleapis.com/drive/v3/files/1u_e_PpYfXOrXh8YZ1pSEgiPrB0WZ1OSH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP5
-https://www.googleapis.com/drive/v3/files/1wO0-_YXB_OW9Eu8SrNM1LjTokgEcXb_l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP6
-https://www.googleapis.com/drive/v3/files/1cA9vOR4VFHYfjwBps5O4ltjrwnGajnPn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP7
-https://www.googleapis.com/drive/v3/files/1aS768vIxVHhbCOWy04Q9y2rBdMS3cSIH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP8
-https://www.googleapis.com/drive/v3/files/11Za3K66KnPQVPPKQHGt94ywIfCxPKZD3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP9
-https://www.googleapis.com/drive/v3/files/1b4fW_vRQU-g3mVC5J474VnQcW2Pba2vu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP10
-https://www.googleapis.com/drive/v3/files/136BjMndSvRE_sQLpFg_7ScFEBxlUffvD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP11
-https://www.googleapis.com/drive/v3/files/1kfpXnkI4IpY8xrmcqxpzzFRttJCsFBTw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP12
-https://www.googleapis.com/drive/v3/files/1v2Qv_S1GkwcBctfgGDaHU5zS9o-VWzii?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP13
-https://www.googleapis.com/drive/v3/files/1gaVcHP3YgAa08Ql8DGPsp-9xixwj7eDS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP14
-https://www.googleapis.com/drive/v3/files/1nPm9o0NkcXdDX2AvScFwhV6HubT0R5OW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP15
-https://www.googleapis.com/drive/v3/files/17CXhhYsMDUWWAuzmCElFM8gPkBIneQYq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Start-Up S1EP16
-https://www.googleapis.com/drive/v3/files/1h3BPsAKA8SqnSFyonCqYtivOMZ2L2HEA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP1
-https://www.googleapis.com/drive/v3/files/1hZ8oRqLcCTfQWTeVSFoPVRoDXEbGvI--?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP2
-https://www.googleapis.com/drive/v3/files/1_8QO6OOLNY9uQ8VEcYHqrtm_jF1DxO63?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP3
-https://www.googleapis.com/drive/v3/files/1HalpOJbYXJ20QLLAzELqxc7zjoy4iSE4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP4
-https://www.googleapis.com/drive/v3/files/1LBwmJYxCne46L5vyQ9BR2KDMioKdXGqY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP5
-https://www.googleapis.com/drive/v3/files/1AaCHVMj4BEiEH0Yg1hOAv5TxZ-EM9R96?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP6
-https://www.googleapis.com/drive/v3/files/1XqVrRWJRi2CRymkTa6jkg3zZtphkiqRo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP7
-https://www.googleapis.com/drive/v3/files/1_0VNSGAsUy6tv3NRZpFoYUncLgVi1PWW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP8
-https://www.googleapis.com/drive/v3/files/1TVQ84ug0BQqQRW7ff6xhjkdrpEnZtHDn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP9
-https://www.googleapis.com/drive/v3/files/1hBvBTcKYcyRi9Th4I9iOITZJfprLHZd6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP10
-https://www.googleapis.com/drive/v3/files/13MQfDaFLnLiewyZecMRlXqLTr5llBJuz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP11
-https://www.googleapis.com/drive/v3/files/1eagTJ2IYm9WuYcrDKiG8Gs3UP5wXTF-u?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Hospital Playlist S1EP12
-https://www.googleapis.com/drive/v3/files/11yO5AlQ28y8Ngq6pWQquq9L2tN6r4GFj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP1
-https://www.googleapis.com/drive/v3/files/1Whlco7SdEHvVhTOoYwteKmnu6PbywXrp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP2
-https://www.googleapis.com/drive/v3/files/1tJHGMtBpIReUjiwHJZzswCm3hs2CGmc5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP3
-https://www.googleapis.com/drive/v3/files/1QZLjkmalO94kuzP3GDPlkj2ramv0Qy0M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP4
-https://www.googleapis.com/drive/v3/files/1B4bFaY1d62Vp29HWYK62VO-iURFJ36HT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP5
-https://www.googleapis.com/drive/v3/files/1D9lBnnV6RvSxAW6KnRZP86XhuGVXt2yT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP6
-https://www.googleapis.com/drive/v3/files/1B4k9Ay67vBSq3UYLezKZSJoqLh6qdpjg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP7
-https://www.googleapis.com/drive/v3/files/1K5-uf0YimoA3NHy02N4iYq8y1HZDF1GN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP8
-https://www.googleapis.com/drive/v3/files/1953Cz5JJKn3w2t-e2U69pd0zkLJPFRqu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP9
-https://www.googleapis.com/drive/v3/files/1y4SYv3-G9WqC8T4ot8DTf9TTa0SozbSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP10
-https://www.googleapis.com/drive/v3/files/14NQmLSC3V6tZJ4VFANEbz561xxgdekr3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP11
-https://www.googleapis.com/drive/v3/files/1C660l-3qD5x-zMZlJmbjR7c9RZvNz_Jz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP12
-https://www.googleapis.com/drive/v3/files/1k9gRdQrExqXHhsbOjhr8jnfIzP4JBkad?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP13
-https://www.googleapis.com/drive/v3/files/1O9tjtJNj3XvgWIcxjfRbyiaA8XLaj7FK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP14
-https://www.googleapis.com/drive/v3/files/1fcIOVVcIbLUmdDDG3lK_tfdYhPMxC3sG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP15
-https://www.googleapis.com/drive/v3/files/1VAT_Lxr20ThT9poJo6qsgM4STdQRA7z_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Drakor",Crash Landing on You S1EP16
-https://www.googleapis.com/drive/v3/files/1a81crX65JQdlXz1ATRBq-6DCh0Xx5-JK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-
-
-
-#EXTINF:70 group-title="VOD Asia",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 group-title="VOD Asia",What Happened to Mr Cha?
-https://www.googleapis.com/drive/v3/files/1nhA0DNiz-BXXDOgsh01-SvRob7ZKm0My?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Rat Disaster
-https://www.googleapis.com/drive/v3/files/1qoI-RIzk902wcmhWWMwHiaXI56MXHhIH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Shades of the Heart
-https://www.googleapis.com/drive/v3/files/1uCthNadQU9UquE8WcAf0htpyY2_kvaAf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Secret Army
-https://www.googleapis.com/drive/v3/files/1egC7PNd9A-uYhB7pKawlJ_G8W8AklxEg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Homunculus
-https://www.googleapis.com/drive/v3/files/1SEEIxLoFvqgb3yZjFY2C6gAuEKZJ6oSl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Double Patty
-https://www.googleapis.com/drive/v3/files/1g0kNQMtFaKSdVeqC8mlspvhD6R1darWW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Seobok
-https://www.googleapis.com/drive/v3/files/1wIF9xz2MYf54yig9HKcLc39dVVdIbE_8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",A Writer’s Odyssey
-https://www.googleapis.com/drive/v3/files/1yxDFvhu1x677obgehOoCNJJLA16p7SRa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",Fake Bodyguard
-https://www.googleapis.com/drive/v3/files/1RgjIVPpsOyJRwLyqXt307CRQYVCC5Crl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",The White Snake
-https://www.googleapis.com/drive/v3/files/1vk0sFmlsjBccHqvW1N8y8U3wJq-QQOkA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:70 group-title="VOD Barat",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 group-title="VOD Barat",Trigger Point
-https://www.googleapis.com/drive/v3/files/10iQTSQgEptnqXS9RFSpmWoDEcQHdMi2T?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Pipeline
-https://www.googleapis.com/drive/v3/files/1Lyrw8CUEIqVqMq0aQ5mijWxfsHLoFXEE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Boys from County Hell
-https://www.googleapis.com/drive/v3/files/12BQSstzEL2NrawWKWQmHrmTWMIlxba60?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Things Heard & Seen
-https://www.googleapis.com/drive/v3/files/13a4Plsxe_0gW3L4TZdEGDVqNJavF8x89?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Voyagers
-https://www.googleapis.com/drive/v3/files/1YLA-HHtbQ9jHXobdJzUJVOjbCSeb2WwL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Tom Clancy’s Without Remorse
-https://www.googleapis.com/drive/v3/files/1SKo9ctTEV9LAhl_aYGu-_7jhTHckhi98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Virtuoso
-https://www.googleapis.com/drive/v3/files/1ZKR-wUwyml9y0tm0KtFHRYZX4FRCAeb4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",86 Melrose Avenue
-https://www.googleapis.com/drive/v3/files/1uVZWjn7TUOAVeMRklkIOY4WGVJGbDGti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Marksman
-https://www.googleapis.com/drive/v3/files/1-veBYyu4bfPTxFdCFvyRRANCQuRJ6P_b?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Stowaway
-https://www.googleapis.com/drive/v3/files/1-_XKVsaBjBCXLIwJwtrog49lvO7aHn39?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Mortal Kombat
-https://www.googleapis.com/drive/v3/files/1z9905Zgu3xznh5MiofB9pU2S-3ph7Zin?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Chadwick Boseman: Portrait of an Artist
-https://www.googleapis.com/drive/v3/files/1Seg7NVqQd6w-mJZY_VDz2dL_d0WX-G9x?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Honeydew
-https://www.googleapis.com/drive/v3/files/15WZJYk6klPenXmhvQHd5gyFDbrGcuebp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Courier
-https://www.googleapis.com/drive/v3/files/1OVl8mHYip8Wr8dMeILYZNQq_gEFJSqbn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Night of the Sicario
-https://www.googleapis.com/drive/v3/files/1JYYPeAA5FMG2KmexGqXs-gdgxLFzhtMX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Ballad Of Billy McCrae
-https://www.googleapis.com/drive/v3/files/1BbG4P4vDF5w8JhnDdrKovwUdsJvpTxp7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Inheritance
-https://www.googleapis.com/drive/v3/files/1neIhnZDiJFGER5dfd0trTMGmhohwdTjE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Vanquish
-https://www.googleapis.com/drive/v3/files/1E7NeD__Y3ropB9zFyV8ddNuDJlVUQbFb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Nobody
-https://www.googleapis.com/drive/v3/files/1SBcNcdVQWqu8jWWQvIhj_XDGTwhKH6zH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Power
-https://www.googleapis.com/drive/v3/files/1piWedxkGDnp5mScYfrP0AklF2orqTAgb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Held
-https://www.googleapis.com/drive/v3/files/1d6A0kLdwC1pXRg4zQzTkiso7oDQjTNNi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Thunder Force
-https://www.googleapis.com/drive/v3/files/1-QzOguvej_K8xl6T-2BSs3D5ipZsVSaF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Believer
-https://www.googleapis.com/drive/v3/files/1Yg26pOzjX7qA7qQrAINkSBGZG2AP7XVL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Irul
-https://www.googleapis.com/drive/v3/files/1zVbL4NE_MVe7AG8qHsPZgaDMunyhDADS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",A Week Away
-https://www.googleapis.com/drive/v3/files/19cbkxkKbhrFYHCwbHmttpVMljJQEkb4S?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Dry
-https://www.googleapis.com/drive/v3/files/11jigbnpOPInJY7R3L8B5qL1DZl7c0awX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Dawn of the Beast
-https://www.googleapis.com/drive/v3/files/1TBeBuMbe4kU7UKEYRYK60WD_xYG15TWp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Chaos Walking
-https://www.googleapis.com/drive/v3/files/1ccciPm2W3H_XMQxmN-0ZmF7-hIV2HJbp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Godzilla vs. Kong
-https://www.googleapis.com/drive/v3/files/1r8NvmZHoH74A6CIxB8SRYILND1IfA1Fz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Arbors
-https://www.googleapis.com/drive/v3/files/1P-_zpevwmxNXbjRRJ2fKumngs80pA3dH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Toll
-https://www.googleapis.com/drive/v3/files/12K8e4O0SOQRQRmPrf1wjMNfbN7QNvYnO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Zack Snyder’s Justice League
-https://www.googleapis.com/drive/v3/files/1arI3Hdje3V5-HYmPImRjgfx7k9KWDboR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Get the Goat
-https://www.googleapis.com/drive/v3/files/1_NXqbqR7VD_XjVjmrtOEacRKfjDDTFtA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Doors
-https://www.googleapis.com/drive/v3/files/12cNd2Kj-ZiH16EK95JdMgSWTCh5P_TcL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Moxie
-https://www.googleapis.com/drive/v3/files/1iIl3kbpRYnVPFpTIV1UQ5RjHVf_yxAm1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Vault
-https://www.googleapis.com/drive/v3/files/1kpZEoKUke0JFbv9Tycd65Oebwd3JvV-k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",SAS: Red Notice
-https://www.googleapis.com/drive/v3/files/1FOLDkD-hC1MA-OPggQ_y-Rrzu16fDMiq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Come True
-https://www.googleapis.com/drive/v3/files/1bVIpmFmaTG50jk_SBxZabxsOKpwBfs--?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Insight
-https://www.googleapis.com/drive/v3/files/1ASkVsLp5_sNRYzV_i1NWUCdatmcC6_Qy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Winter Lake
-https://www.googleapis.com/drive/v3/files/1YEZtGoM1nEQKogbmPPaheLjtSXzqn4I4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",The Devil Below
-https://www.googleapis.com/drive/v3/files/1jCtN1eFtoTCSS3X-u_9D8KaDJtgP8EEA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:70 group-title="VOD Animasi",Youtube Chanel Santai Bareng IPTV
-https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D 
-
-#EXTINF:-1 group-title="VOD Animasi",Justice Society: World War II
-https://www.googleapis.com/drive/v3/files/1sCSgXcMkFnovBsFJqcNP2JbfY31Ob9U7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Felix and the Treasure of Morgäa
-https://www.googleapis.com/drive/v3/files/1HXkmInjaHM7wWgUxibr7uH9izG0QRlUY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Arlo the Alligator Boy
-https://www.googleapis.com/drive/v3/files/1W0aXB6OIHmvriCvSnPVR8FUrDHJ8jzka?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",New Gods: Nezha Reborn
-https://www.googleapis.com/drive/v3/files/16Equ4kxWxFK8Y3XqQaHiwQIcKaFGAhP3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Wish Dragon
-https://www.googleapis.com/drive/v3/files/14SBLisr8gO95-_HsqNqLinteHrtSkBux?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Secret Magic Control Agency
-https://www.googleapis.com/drive/v3/files/1mO2us-DdFlUNhB6_Ty36gf-nRxAN68ng?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Raya and the Last Dragon
-https://www.googleapis.com/drive/v3/files/1BVrxOC6cmPP13D4D5_OfpPjZsCpZJ7FU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Tom & Jerry
-https://www.googleapis.com/drive/v3/files/11cIkHReMqmDw7o3n4qfE94sK8bjFZcrx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Batman: Soul of the Dragon
-https://www.googleapis.com/drive/v3/files/1zV8ICeMKI356Hh2kqtxgnu2nupfIt20N?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Kimetsu no Yaiba Movie: Mugen Ressha-hen
-https://www.googleapis.com/drive/v3/files/1z0XtwS7NspTyuOyW-7b7fxY3BhruU6-A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Stand by Me Doraemon 2
-https://www.googleapis.com/drive/v3/files/1DOSnz_3uLITcT8n16bOFpcVMkHr-eWKW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Fate/stay night: Heaven’s Feel III. Spring Song
-https://www.googleapis.com/drive/v3/files/1ox1KX1QOUyj05o9lIAVuOnaCkIH43V-_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Trolls World Tour
-https://www.googleapis.com/drive/v3/files/1gVtkzWFnbJBm8-VXTdn7Uh3t2c2uG_b5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Xico’s Journey
-https://www.googleapis.com/drive/v3/files/151NTMJMYkibR3ncX5EQKfTIU3EWSlXRL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="lifesyle Plus",Youtube Chanel Santai Bareng IPTV
-https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
