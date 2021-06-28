@@ -125,7 +125,7 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1318
 http://gooserace.xyz:2052/darshan/darshan/1109814
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 
 http://zalogitv.tech:8080/Hidayat/Hidayat/1412
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="NASIONAL//HIBURAN", (DG) DUNIA LAIN
 http://gpc.my.id/usee/dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="LOKAL usee//vidio", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
