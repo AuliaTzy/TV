@@ -78,7 +78,7 @@ http://gooserace.xyz:2052/darshan/darshan/1109813
 #EXTINF:-1 group-title="LOKAL usee//vidio",CNN
 http://zalogitv.tech:8080/Hidayat/Hidayat/1496
 #EXTINF:-1 group-title="LOKAL usee//vidio",CBNC
-http://mantul.biz.id:8888/agung/agung/173
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",BERITA SATU
 http://zalogitv.tech:8080/Hidayat/Hidayat/1333
 #EXTINF:-1 group-title="LOKAL usee//vidio",TVONE 1
@@ -150,7 +150,7 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/601
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", NICK 
 http://zalogitv.tech:8080/Hidayat/Hidayat/1460
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG
-http://zalogitv.tech:8080/Hidayat/Hidayat/1458
+http://gooserace.xyz:2052/darshan/darshan/1109847
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG 2
 http://zalogitv.tech:8080/Hidayat/Hidayat/312
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIMAX
@@ -161,13 +161,13 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1465
 http://zalogitv.tech:8080/Hidayat/Hidayat/644
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HD
 http://eroz84.wap.sh/movies/hbo.m3u8
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FHD
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO SIGNATURE 3
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1 
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?token=ShareExt
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FAMILY
 http://eroz84.wap.sh/movies/hbo_fam.m3u8
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FAMILY FHD
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO SIGNATURE 2
 http://eroz84.wap.sh/movies/hbo_sig.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
@@ -183,6 +183,80 @@ http://gooserace.xyz:2052/darshan/darshan/1109792
 http://mantul.biz.id:8888/agung/agung/10870
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN 2
 http://gooserace.xyz:2052/darshan/darshan/1109753
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIMAL PLANET 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1435
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HISTORY
+http://zalogitv.tech:8080/Hidayat/Hidayat/1436
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HISTORY FHD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1437
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISCOVERY ASIA
+http://zalogitv.tech:8080/Hidayat/Hidayat/1438
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISCOVERY CHANNEL HD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1439
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISCOVERY CHANNEL FHD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1440
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NATIONAL GEOGRAPHIC HD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1441
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO PEOPLE HD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1443
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO PEOPLE FHD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1444
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO WILD HD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1445
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO WILD FHD
+http://zalogitv.tech:8080/Hidayat/Hidayat/1446
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",CGTN DOCUMENTARY
+http://zalogitv.tech:8080/Hidayat/Hidayat/1448
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",CRIME INVESTIGATION
+http://zalogitv.tech:8080/Hidayat/Hidayat/1447
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",LINGUA CHANNEL
+http://zalogitv.tech:8080/Hidayat/Hidayat/1449
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",SKY DMAX HD
+http://zalogitv.tech:8080/Hidayat/Hidayat/515
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",TRAVEL CHANNEL
+http://zalogitv.tech:8080/Hidayat/Hidayat/516
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",DISCOVERY TURBO
+http://zalogitv.tech:8080/Hidayat/Hidayat/517
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",LOVE NATURE
+http://zalogitv.tech:8080/Hidayat/Hidayat/1432
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA
+http://zalogitv.tech:8080/Hidayat/Hidayat/1800
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA 2
+http://gooserace.xyz:2052/darshan/darshan/2599215
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+
+#EXTINF:-1 group-title="FILM", SCOOBY DOO
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",
 #EXTINF:-1,Youtube Chanel Santai Bareng IPTV
 https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei=nP-EYLjZKqSgjuMPkbm9kAk&ip=36.70.38.153&id=o-AJqS6K-XyG6fajgVE7HpPdYyEu4Q_crhXm3sA9l0j7G4&itag=22&source=youtube&requiressl=yes&mh=Vl&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=580000&vprv=1&mime=video%2Fmp4&ns=h8HEdSz4b_X3789UfP_QjmUF&ratebypass=yes&dur=70.426&lmt=1619009238418678&mt=1619328761&fvip=2&fexp=24001373%2C24007246&c=WEB&txp=6216222&n=kUCPgIVpW669ewmcpr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFnqpFx2ZaiweervtgfzMPn48tEQclXgbQke-NVOSQVACIBLqdsEO1ATQpVkkwCzSivgWUdBxHhnxH2zdqXm_fFDw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWjbvjLiz3JwQ6VMJ2lZxjn0-HEeyju9nRz0kCFPbpJ4CIQC2LkEKSFt1s4840qAkcHyg1qT7znfoVfkbDk2T9mS4yw%3D%3D
  
