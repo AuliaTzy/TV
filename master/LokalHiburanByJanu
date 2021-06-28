@@ -106,7 +106,7 @@ http://mantul.biz.id:8888/agung/agung/60
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR A
 http://chostv.mobie.in/files/iptv/indosiar.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Q
-https://conversant.mncnow.id/live/eds/NetTV-HD/sa_hls_vmx/NetTV-HD.m3u8?begin=1624626000&end=1624633200
+https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd?begin=1624626000&end=1624633200
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Z
 http://zalogitv.tech:8080/Hidayat/Hidayat/1319
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV E
