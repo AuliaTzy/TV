@@ -66,47 +66,53 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL usee//vidio",RCTI 2
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109811
 #EXTINF:-1 group-title="LOKAL usee//vidio",GTV 1
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109817
 #EXTINF:-1 group-title="LOKAL usee//vidio",RTV 1
-http://210.210.155.35/session/b2ef92ee-e21d-11e9-be18-c81f66f89318/qwr9ew/s/s12/02.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109837
 #EXTINF:-1 group-title="LOKAL usee//vidio",TRANS TV 1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109810
 #EXTINF:-1 group-title="LOKAL usee//vidio",MNC TV 1
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109810
 #EXTINF:-1 group-title="LOKAL usee//vidio",CNN
-https://live.cnnLOKAL usee//vidio usee//vidio.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u
+http://zalogitv.tech:8080/Hidayat/Hidayat/1496
 #EXTINF:-1 group-title="LOKAL usee//vidio",CBNC
-https://live.cnbcLOKAL usee//vidio usee//vidio.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u
+https://live.cnbc.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u
 #EXTINF:-1 group-title="LOKAL usee//vidio",BERITA SATU
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u
+http://zalogitv.tech:8080/Hidayat/Hidayat/1333
 #EXTINF:-1 group-title="LOKAL usee//vidio",TVONE 1
-http://210.210.155.35/qwr9ew/s/s105/02.m3u
+http://gooserace.xyz:2052/darshan/darshan/1109808
 #EXTINF:-1 group-title="LOKAL usee//vidio",ANTV 1
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u
+http://zalogitv.tech:8080/Hidayat/Hidayat/1346
+#EXTINF:-1 group-title="LOKAL usee//vidio",ANTV A
+'http://mantul.biz.id:8888/agung/agung/206
 #EXTINF:-1 group-title="LOKAL usee//vidio",RCTI Z
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Q
-http://103.88.170.102:8000/play/sctv/index.m3u8
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Z
-http://210.210.155.35/qwr9ew/s/s03/02.m3u
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR Z
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR Q
-http://210.210.155.35/qwr9ew/s/s04/01.m3u
+http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR E
-http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR A
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Q
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Z
-http://210.210.155.35/qwr9ew/s/s08/01.m3u
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",TRANS TV Q
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",TRANS E
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",GTV Z
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Metro Tv
+http://gooserace.xyz:2052/darshan/darshan/1109814
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="NASIONAL//HIBURAN", Dunia Lain 
 http://zalogitv.tech:8080/Hidayat/Hidayat/1412
 #EXTINF:-1,Youtube Chanel Santai Bareng IPTV
