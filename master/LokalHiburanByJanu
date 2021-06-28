@@ -74,7 +74,7 @@ http://gooserace.xyz:2052/darshan/darshan/1109837
 #EXTINF:-1 group-title="LOKAL usee//vidio",TRANS TV 1
 http://gooserace.xyz:2052/darshan/darshan/1109810
 #EXTINF:-1 group-title="LOKAL usee//vidio",MNC TV 1
-http://mantul.biz.id:8888/agung/agung/191
+http://gooserace.xyz:2052/darshan/darshan/1109813
 #EXTINF:-1 group-title="LOKAL usee//vidio",CNN
 http://zalogitv.tech:8080/Hidayat/Hidayat/1496
 #EXTINF:-1 group-title="LOKAL usee//vidio",CBNC
@@ -86,11 +86,11 @@ http://gooserace.xyz:2052/darshan/darshan/1109808
 #EXTINF:-1 group-title="LOKAL usee//vidio",ANTV 1
 http://zalogitv.tech:8080/Hidayat/Hidayat/1346
 #EXTINF:-1 group-title="LOKAL usee//vidio",ANTV A
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 #EXTINF:-1 group-title="LOKAL usee//vidio",RCTI Z
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+http://zalogitv.tech:8080/Hidayat/Hidayat/1964
 #EXTINF:-1 group-title="LOKAL usee//vidio",RCTI Q
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+http://gooserace.xyz:2052/darshan/darshan/1109811
 #EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Q
 http://gooserace.xyz:2052/darshan/darshan/1109820
 #EXTINF:-1 group-title="LOKAL usee//vidio",SCTV Z
@@ -104,7 +104,7 @@ http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR E
 http://mantul.biz.id:8888/agung/agung/60
 #EXTINF:-1 group-title="LOKAL usee//vidio",INDOSIAR A
-http://gooserace.xyz:2052/darshan/darshan/1109818
+http://chostv.mobie.in/files/iptv/indosiar.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Q
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",NET TV Z
@@ -116,6 +116,10 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1310
 #EXTINF:-1 group-title="LOKAL usee//vidio",TRANS E
 http://zalogitv.tech:8080/Hidayat/Hidayat/1312
 #EXTINF:-1 group-title="LOKAL usee//vidio",GTV Z
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",GTV R
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",GTV T
 http://zalogitv.tech:8080/Hidayat/Hidayat/1318
 #EXTINF:-1 group-title="LOKAL usee//vidio",Metro Tv
 http://gooserace.xyz:2052/darshan/darshan/1109814
@@ -123,26 +127,58 @@ http://gooserace.xyz:2052/darshan/darshan/1109814
 http://zalogitv.tech:8080/Hidayat/Hidayat/1412
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Drama
 http://zalogitv.tech:8080/Hidayat/Hidayat/1376
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Drama 2
-http://mantul.biz.id:8888/agung/agung/5285
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Bioskop
-http://mantul.biz.id:8888/agung/agung/5284
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Entertainment
-http://mantul.biz.id:8888/agung/agung/10702
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HD
-http://gooserace.xyz:2052/darshan/darshan/1109881
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO SIGNATURE
-http://gooserace.xyz:2052/darshan/darshan/1109883
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FAMILY
-http://gooserace.xyz:2052/darshan/darshan/1109886
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HITS
-http://gooserace.xyz:2052/darshan/darshan/1109884
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", CINEMAX BY HBO
-http://gooserace.xyz:2052/darshan/darshan/1109889
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", RED BY HBO 
-http://gooserace.xyz:2052/darshan/darshan/1109888
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY CHANNEL
+http://zalogitv.tech:8080/Hidayat/Hidayat/1452
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY CHANNEL 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/620
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY JR
+http://zalogitv.tech:8080/Hidayat/Hidayat/1453
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY JR 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/621
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", CARTOON NETWORK
+http://zalogitv.tech:8080/Hidayat/Hidayat/1454
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", CARTOON NETWORK 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/1455
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DREAMWORK 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1456
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DREAMWORK 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/1457
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NICK JR 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1459
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NICK JR 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/601
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NICK 
+http://zalogitv.tech:8080/Hidayat/Hidayat/1460
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG
-http://gooserace.xyz:2052/darshan/darshan/1109847
+http://zalogitv.tech:8080/Hidayat/Hidayat/1458
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG 2
+http://zalogitv.tech:8080/Hidayat/Hidayat/312
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIMAX
+http://zalogitv.tech:8080/Hidayat/Hidayat/1464
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIPLUS
+http://zalogitv.tech:8080/Hidayat/Hidayat/1465
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY XD
+http://zalogitv.tech:8080/Hidayat/Hidayat/644
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HD
+http://mantul.biz.id:8888/agung/agung/1
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FHD
+http://mantul.biz.id:8888/agung/agung/252
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO SIGNATURE
+http://mantul.biz.id:8888/agung/agung/1019
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FAMILY
+http://mantul.biz.id:8888/agung/agung/5
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO FAMILY FHD
+http://mantul.biz.id:8888/agung/agung/6
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HITS
+http://mantul.biz.id:8888/agung/agung/3
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", HBO HITS FHD
+http://mantul.biz.id:8888/agung/agung/4
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", CINEMAX BY HBO
+http://mantul.biz.id:8888/agung/agung/5811
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", RED BY HBO 
+http://mantul.biz.id:8888/agung/agung/11539
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", NATIONAL GEOGGRAPHIC
+http://zalogitv.tech:8080/Hidayat/Hidayat/1444
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", VISION PRIME
 http://gooserace.xyz:2052/darshan/darshan/1109792
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN
