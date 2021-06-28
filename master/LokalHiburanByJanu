@@ -261,7 +261,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
 
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", Citra Drama
-http://zalogitv.tech:8080/Hidayat/Hidayat/1376
+https://tv.aryakrida.com/live/citradrama.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY CHANNEL
 http://zalogitv.tech:8080/Hidayat/Hidayat/1452
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", DISNEY CHANNEL 2
@@ -285,9 +285,9 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/601
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", NICK 
 http://zalogitv.tech:8080/Hidayat/Hidayat/1460
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG
-http://gooserace.xyz:2052/darshan/darshan/1109847
+http://gooserace.xyz:2052/darshan/darshan/2599332
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", BOOMERANG 2
-http://zalogitv.tech:8080/Hidayat/Hidayat/312
+https://tv.aryakrida.com/live/boomerang.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIMAX
 http://zalogitv.tech:8080/Hidayat/Hidayat/1464
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", ANIPLUS
