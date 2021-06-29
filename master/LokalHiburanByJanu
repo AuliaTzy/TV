@@ -354,12 +354,6 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/517
 http://zalogitv.tech:8080/Hidayat/Hidayat/1432
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA
 http://zalogitv.tech:8080/Hidayat/Hidayat/1800
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="LOKAL usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="LOKAL usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="LOKAL usee//vidio",useeinfo_USEE
 http://gpc.my.id/usee/useeinfo.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="LOKAL usee//vidio",useephoto_USEE
@@ -432,10 +426,6 @@ http://gpc.my.id/vidio/daai-tv.m3u8
 http://gpc.my.id/usee/muitv.m3u8
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="LOKAL usee//vidio",Fatwa TV
 http://gpc.my.id/ytlive/fatwa-tv.m3u8
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="SPORT usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?3
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="SPORT usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISPORT usee//vidioHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT usee//vidio" group-title="SPORT usee//vidio",TVRI-SPORT usee//vidio
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-1" group-title="SPORT usee//vidio",champion-tv-1
@@ -468,10 +458,6 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.SPORT usee//vidio-tv-guide.live/images/tv-station-astro-superSPORT usee//vidio-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSPORT usee//vidio4" group-title="SPORT usee//vidio",AstroSuperSPORT usee//vidio4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="tvn" group-title="NASIONAL//HIBURAN",tvn
 http://gpc.my.id/vidio/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="NASIONAL//HIBURAN",zee-bioskop
@@ -483,7 +469,7 @@ http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="NASIONAL//HIBURAN",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_NASIONAL//HIBURAN_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-NASIONAL//HIBURAN" group-title="NASIONAL//HIBURAN",citra-NASIONAL//HIBURAN
-http://gpc.my.id/vidio/citra-NASIONAL//HIBURAN.m3u8
+http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="NASIONAL//HIBURAN",zing
 http://gpc.my.id/vidio/zing.m3u8
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="NASIONAL//HIBURAN",magna-tv
@@ -508,10 +494,6 @@ http://gpc.my.id/usee/eljohn.m3u8
 http://gpc.my.id/usee/arirang.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="NASIONAL//HIBURAN",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NEWS usee//vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NEWS usee//vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="NEWS usee//vidio",metro-tv
 http://gpc.my.id/vidio/metro-tv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncNEWS usee//vidio_small.png" tvg-id="BathokGpc" tvg-name="mncNEWS usee//vidio_USEE" group-title="NEWS usee//vidio",mncNEWS usee//vidio_USEE
@@ -522,7 +504,7 @@ http://gpc.my.id/vidio/kompas-tv.m3u8
 http://gpc.my.id/usee/idx.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="sea-today" group-title="NEWS usee//vidio",sea-today
 http://gpc.my.id/vidio/sea-today.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_iNEWS usee//vidio_small.png" tvg-id="BathokGpc" tvg-name="iNEWS usee//vidio" group-title="NEWS usee//vidio",iNEWS usee//vidio
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_iNEWS_small.png" tvg-id="BathokGpc" tvg-name="iNEWS usee//vidio" group-title="NEWS usee//vidio",iNEWS usee//vidio
 http://gpc.my.id/vidio/iNEWS usee//vidio.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="NEWS usee//vidio",CNN-Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
@@ -542,10 +524,6 @@ http://gpc.my.id/usee/trtworld.m3u8
 http://gpc.my.id/usee/france24.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="NEWS usee//vidio",seatoday_USEE
 http://gpc.my.id/usee/seatoday.m3u8
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="http://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="NASIONAL//HIBURAN" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="NASIONAL//HIBURAN",hip-hip-horee
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="NASIONAL//HIBURAN",zoomoo
