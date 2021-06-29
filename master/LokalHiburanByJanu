@@ -314,17 +314,14 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1444
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="MOVIES",VISION PRIME
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG" group-title="MOVIES", OK TV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG" group-title="MOVIES", OK TV 2
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN
 http://mantul.biz.id:8888/agung/agung/10870
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN 2
@@ -543,70 +540,48 @@ http://gpc.my.id/usee/cgtndocumentary.m3u8
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL (ID)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KidsS", DISNEY CHANNEL
 http://rec2.distv.net:80/aurora/123456/138
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR (ID)
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR 
 http://rec2.distv.net:80/aurora/123456/139
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD
 http://rec2.distv.net:80/aurora/123456/140
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD (USA)
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/natgeokids.png" group-title="Kids", NAT GEO KIDS
 http://rec2.distv.net:80/aurora/123456/173
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/zoomoo.png" group-title="Kids", ZOOMOO
 http://rec2.distv.net:80/aurora/123456/244
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/tooncast.png" group-title="Kids", TOONCAST 
 http://rec2.distv.net:80/aurora/123456/203
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="Kids", NICK
 http://rec2.distv.net:80/aurora/123456/175
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nickjr.png" group-title="Kids", NICK JR
 http://rec2.distv.net:80/aurora/123456/176
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/biggs_pt.png" group-title="Kids", BIGSS TV (POR)
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/1439?checkedby:zaltv.co
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL HD (CA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7196
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KidsS", DISNEY JUNIOR (CA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7197
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7198
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="Kids", BOOMERANG (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7199
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Cartoon Network FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7200
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Nickelodeon (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7201
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Nickelodeon FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7202
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Baby First  FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7203
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", STARZ Kids & Family FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7204
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Universal Kids FHD (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7205
-
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",DUNIA LAIN
 https://tv.aryakrida.com/live/dunialain.m3u8
 http://gooserace.xyz:2052/darshan/darshan/1109814
@@ -614,6 +589,5 @@ http://gooserace.xyz:2052/darshan/darshan/1109814
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",CN
 https://tv.aryakrida.com/live/cartoonnetwork.m3u8
-#EXTINF:-1 group-title="NASIONAL//HIBURAN",DUNIA LAIN 3
-http://gpc.my.id/usee/dunialain.m3u8
+
 
