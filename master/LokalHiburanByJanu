@@ -591,6 +591,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",CN
 https://tv.aryakrida.com/live/cartoonnetwork.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",DL
-https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452602.ts
+https://raw.githubusercontent.com/AuliaTzy/TV/main/DuniaLain.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",DL2
-https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452603.ts
+https://raw.githubusercontent.com/AuliaTzy/TV/main/dunia%20lain.m3u8
