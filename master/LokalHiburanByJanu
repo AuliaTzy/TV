@@ -4,7 +4,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1624952727~acl=/hls-p/ingest_205_*/*~hmac=2d86674145ee8b8c6f9bdce4f41f2c9f06ce834747e1bae87f6b39f48b33716f/hls-p/ingest_205_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
@@ -13,21 +13,21 @@ https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_dash/ANTV-radeo
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL usee//vidio",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1624952830~acl=/hls-p/ingest_204_*/*~hmac=ebf4ca6c63b09e60840eb55876ee110edf55116a89cc471b4a6a33d063773828/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624952118~acl=/hls-p/ingest_665_*/*~hmac=412152de934b28e02b9d4d889dd7113e8f60a9d6a5e967fc803d617dd1588c09/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624952343~acl=/hls-p/ingest_870_*/*~hmac=5f985ab7b7441f60cae46f6870aa813240718be990dc1e02e7b4fa70da3cc36b/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624952519~acl=/hls-p/ingest_778_*/*~hmac=85adc3e5c8d5fdab7f137a968ff84fd9aa8d10b3f16581e85e711332dd827be1/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624954765~acl=/hls-p/ingest_875_*/*~hmac=4c4b40727cf81e69bfb06866e5aaf4ff7d3a5fd3d6c64d6f74d46c8f655589c2/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
@@ -520,11 +520,11 @@ http://gpc.my.id/vidio/love-nature.m3u8
 http://gpc.my.id/usee/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL (ID)
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="NASIONAL//HIBURAN", DISNEY CHANNEL (ID)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KidsS", DISNEY CHANNEL
 http://rec2.distv.net:80/aurora/123456/138
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR (ID)
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="NASIONAL//HIBURAN", DISNEY JR (ID)
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR 
 http://rec2.distv.net:80/aurora/123456/139
@@ -555,16 +555,16 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8#EXTINF:-1 group-title=
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 #EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="KNOWLEDGE", Nat Geo People
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="NASIONAL//HIBURAN", Nat Geo People
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="NASIONAL//HIBURAN", National Geographic
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="KNOWLEDGE", History 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="NASIONAL//HIBURAN", History 
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL4p64N0/Biznet-Adventure-170x85.png" group-title="KNOWLEDGE", Adventure 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL4p64N0/Biznet-Adventure-170x85.png" group-title="NASIONAL//HIBURAN", Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="KNOWLEDGE",TV Edukasi 
@@ -577,10 +577,10 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 group-title="Kids",Animax
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="Kids",Aniplus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="NASIONAL//HIBURAN",Aniplus
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
  
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="NASIONAL//HIBURAN", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",DUNIA LAIN
@@ -590,5 +590,7 @@ http://gooserace.xyz:2052/darshan/darshan/1109814
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",CN
 https://tv.aryakrida.com/live/cartoonnetwork.m3u8
-
-
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",DL
+https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452602.ts
+#EXTINF:-1 group-title="NASIONAL//HIBURAN",DL2
+https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452603.ts
