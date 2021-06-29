@@ -310,18 +310,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", NATIONAL GEOGGRAPHIC
 http://zalogitv.tech:8080/Hidayat/Hidayat/1444
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", VISION PRIME
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="MOVIES",VISION PRIME
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG" group-title="MOVIES", OK TV
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG" group-title="MOVIES", OK TV 2
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN
 http://mantul.biz.id:8888/agung/agung/10870
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", FMN 2
@@ -334,12 +322,6 @@ http://zalogitv.tech:8080/Hidayat/Hidayat/1436
 http://zalogitv.tech:8080/Hidayat/Hidayat/1438
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", DISCOVERY CHANNEL HD
 http://zalogitv.tech:8080/Hidayat/Hidayat/1439
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", NATIONAL GEOGRAPHIC HD
-https://tv.aryakrida.com/live/nationalgeographic.m3u8
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO PEOPLE HD
-https://tv.aryakrida.com/live/natgeopeople.m3u8
-#EXTINF:-1 group-title="NASIONAL//HIBURAN", NAT GEO WILD HD
-https://tv.aryakrida.com/live/natgeopeople.m3u8
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",LOVE NATURE
 http://zalogitv.tech:8080/Hidayat/Hidayat/1432
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",ASTRO CERIA
@@ -571,12 +553,10 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
 #EXTINF:-1, group-title="Kids" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior 
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
-#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
 #EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo People
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="KNOWLEDGE", Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic
