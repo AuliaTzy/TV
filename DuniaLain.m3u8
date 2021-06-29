@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:452601
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452602.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452603.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/dunialain_dash/media_w7715899232_b1004100_sleng_452604.ts
