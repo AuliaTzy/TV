@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="NASIONAL//HIBURAN", nOO
 http://rr1.dens.tv/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS
+#EXTINF:-1 group-title="NASIONAL//HIBURAN", TRANS TV
+http://rr3.dens.tv/s/s252/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
