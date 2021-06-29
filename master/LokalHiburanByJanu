@@ -560,28 +560,49 @@ http://rec2.distv.net:80/aurora/123456/203
 http://rec2.distv.net:80/aurora/123456/175
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nickjr.png" group-title="Kids", NICK JR
 http://rec2.distv.net:80/aurora/123456/176
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/biggs_pt.png" group-title="Kids", BIGSS TV (POR)
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/1439?checkedby:zaltv.co
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL HD (CA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7196
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KidsS", DISNEY JUNIOR (CA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7197
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7198
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="Kids", BOOMERANG (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7199
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Cartoon Network FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7200
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Nickelodeon (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7201
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Nickelodeon FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7202
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Baby First  FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7203
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", STARZ Kids & Family FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7204
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="Kids", Universal Kids FHD (USA)
-http://iptv.tvmalaysia.cc:80/139664/139664/7205
+#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", M Kidz 
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1, group-title="Kids" tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",Disney Channel 
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
+#EXTINF:-1, group-title="Kids" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png",Disney XD 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+#EXTINF:-1, group-title="Kids" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior 
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo People
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="KNOWLEDGE", National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="KNOWLEDGE", History 
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL4p64N0/Biznet-Adventure-170x85.png" group-title="KNOWLEDGE", Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="tvedukasi" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="KNOWLEDGE",TV Edukasi 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="KNOWLEDGE",SEA TODAY 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfR4MK29/Biznet-Home-Kids.jpg" group-title="Kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="Kids",Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="Kids",Aniplus
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+
 #EXTINF:-1 group-title="NASIONAL//HIBURAN",DUNIA LAIN
 https://tv.aryakrida.com/live/dunialain.m3u8
 http://gooserace.xyz:2052/darshan/darshan/1109814
