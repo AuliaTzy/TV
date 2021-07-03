@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV 1
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV 1
+http://gpc.my.id/vidio/transtv.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7 1
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
+http://gpc.my.id/vidio/trans7.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar 1
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
 https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
@@ -18,19 +18,19 @@ https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_dash/ANTV-radeo
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL usee//vidio",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1 
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI 1
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
+http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV 1
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV 1
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
@@ -41,7 +41,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+http://gpc.my.id/vidio/net-tv.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 
@@ -54,8 +54,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut
 https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6587&b=6587
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut 1
+http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment
 https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6402&b=6402
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment 1
+http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain
 https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==dunialain&b=14&c=dunialain
 #EXTINF:-1 group-title="LOKAL usee//vidio",Eat&Go
@@ -64,8 +68,12 @@ https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==eatgo&b=14&c=eatgo
 https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==bioskopindonesia&b=14&c=bioskopindonesia
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Bioskop
 https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6684&b=6684
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Bioskop 1
+http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Drama
 https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6401&b=6401
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Drama 1
+http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",FLiK
 https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==flik&b=15&c=flik
 #EXTINF:-1 group-title="LOKAL usee//vidio" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg",HBO
