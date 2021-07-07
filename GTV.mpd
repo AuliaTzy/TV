@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2015-01-01T00:00:03Z" publishTime="2021-07-07T11:52:21.542683Z" minimumUpdatePeriod="PT2S" minBufferTime="PT10S" timeShiftBufferDepth="PT2M" maxSegmentDuration="PT11S">
+  <Period id="1" start="PT0S">
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="en" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" initialization="GTV-Perjuangan-$RepresentationID$-init.mp4" media="GTV-Perjuangan-$RepresentationID$-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="2055882184969995" d="99845820" />
+          <S d="100078018" />
+          <S d="100078033" />
+          <S d="99845819" />
+          <S d="100077954" />
+          <S d="100078018" />
+          <S d="99845731" />
+          <S d="100078098" />
+          <S d="100077954" />
+          <S d="99845842" />
+          <S d="100078018" />
+          <S d="100077923" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_66000_eng=2" bandwidth="66000" audioSamplingRate="44100" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" initialization="GTV-Perjuangan-$RepresentationID$-init.mp4" media="GTV-Perjuangan-$RepresentationID$-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="2055882184800000" d="100000000" r="11" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="avc1_499968=5" bandwidth="499968" width="640" height="360" sar="1:1" frameRate="25" codecs="avc1.4d401f" />
+    </AdaptationSet>
+  </Period>
+</MPD>
