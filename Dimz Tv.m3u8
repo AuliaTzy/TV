@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV 1
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7 1
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=trans7
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar 1
@@ -130,6 +130,192 @@ http://eroz84.wap.sh/movies/cinemax.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",RED by HBO
 http://eroz84.wap.sh/movies/hbo_red.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Disney Channel
+https://tv.mbed.cc/disneych.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Disney Channel
+https://tv.mbed.cc/disneychkr.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Disney Junior
+https://tv.mbed.cc/disneyjr.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Disney Junior (Kr)
+https://tv.mbed.cc/disneyjrkr.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Dreamworks
+https://tv.mbed.cc/dreamworks
+#EXTINF:-1 group-title="LOKAL usee//vidio",Duck TV
+https://tv.mbed.cc/ducktv.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Anak
+https://tv.mbed.cc/dunianak.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Eat & Go
+https://tv.mbed.cc/eatgo.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Flik
+https://tv.mbed.cc/flik.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Nickelodeon
+https://tv.mbed.cc/nickelodeon.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Nickelodeon Jr
+https://tv.mbed.cc/nickjr.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="LOKAL usee//vidio",Trans 7
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="LOKAL usee//vidio",Trans TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=transtv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="LOKAL usee//vidio",Indosiar
+https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
+http://topwin-tv.my.id/2/master.m3u8?id=indosiar
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="LOKAL usee//vidio",SCTV
+https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
+http://topwin-tv.my.id/2/master.m3u8?id=transtv
+#EXTINF:0 tvg-id="Metro.pl" group-title="LOKAL usee//vidio",Metro TV
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=metro
+#EXTINF:0 tvg-id="NETtv.svn" group-title="LOKAL usee//vidio",NET TV
+http://dituduhmaling.xyz/US33T4/net.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=nettv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="LOKAL usee//vidio",Rajawali TV
+http://dituduhmaling.xyz/US33T4/rtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=rtv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="LOKAL usee//vidio",Kompas tv
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=kompastv
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",JITV
+http://dituduhmaling.xyz/US33T4/jitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jitv
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",Insert
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
+http://topwin-tv.my.id/2/master.m3u8?id=insert
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",ANTARA TV
+http://dituduhmaling.xyz/US33T4/antara.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=antara
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="LOKAL usee//vidio",Usee Photo
+http://dituduhmaling.xyz/US33T4/useephoto.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useephoto
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="LOKAL usee//vidio",Usee Prime
+http://dituduhmaling.xyz/US33T4/useeprime.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useeprime
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",BALI TV
+http://dituduhmaling.xyz/US33T4/balitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=balitv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL usee//vidio",JAK TV
+http://dituduhmaling.xyz/US33T4/jaktv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jaktv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL usee//vidio",JTV
+http://dituduhmaling.xyz/US33T4/jtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jtv
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",TVRI
+http://dituduhmaling.xyz/US33T4/tvri.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=tvri
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",DAAI TV
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=daaitv
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",MNC Shop
+http://dituduhmaling.xyz/US33T4/mncshop.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mncshop
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",My TV
+http://dituduhmaling.xyz/US33T4/mytv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mytv
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",ID Ku
+http://dituduhmaling.xyz/US33T4/idku.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=idku
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="LOKAL usee//vidio",Bioskop Indonesia
+http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="LOKAL usee//vidio",ZBioskop
+http://topwin-tv.my.id/2/master.m3u8?id=zbioskop
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="LOKAL usee//vidio",TVN
+http://topwin-tv.my.id/2/master.m3u8?id=tvn
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="LOKAL usee//vidio",TVN MOVIES
+http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="LOKAL usee//vidio",Thrill
+http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
+http://topwin-tv.my.id/2/master.m3u8?id=thrill
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cm.png" group-title="LOKAL usee//vidio",Celestial Movie
+http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cinemaworld.png" group-title="LOKAL usee//vidio",Cinema World
+http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/flik.png" group-title="LOKAL usee//vidio",Flik
+http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="LOKAL usee//vidio",Galaxy
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="LOKAL usee//vidio",Galaxy Premium
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="LOKAL usee//vidio",IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",Dunia Lain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/warner.png" group-title="LOKAL usee//vidio",Warner
+http://topwin-tv.my.id/2/master.m3u8?id=warner
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="LOKAL usee//vidio",Blue ant entertainmet
+http://topwin-tv.my.id/2/master.m3u8?id=blueant
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="LOKAL usee//vidio",Blue ant extreme
+http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/axn.png" group-title="LOKAL usee//vidio",AXN
+http://topwin-tv.my.id/2/master.m3u8?id=axn
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/chinesedrama.png" group-title="LOKAL usee//vidio",Chinese Drama
+http://topwin-tv.my.id/2/master.m3u8?id=chinesedrama
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kix.png" group-title="LOKAL usee//vidio",KiX
+http://topwin-tv.my.id/2/master.m3u8?id=kix
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="LOKAL usee//vidio",Waku Waku Japan
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="LOKAL usee//vidio",K+
+http://topwin-tv.my.id/2/master.m3u8?id=kplus
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/gem.png" group-title="LOKAL usee//vidio",Sony GEM TV
+http://topwin-tv.my.id/2/master.m3u8?id=sgem
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/sonyone.png" group-title="LOKAL usee//vidio",Sony One
+http://topwin-tv.my.id/2/master.m3u8?id=sone
+#EXTINF:0 tvg-id="outdoor" group-title="LOKAL usee//vidio",Outdoor CHANNEL
+http://topwin-tv.my.id/2/master.m3u8?id=outdoor
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="LOKAL usee//vidio",KBS World
+http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="LOKAL usee//vidio",ABC Australia
+http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/lifetime.png" group-title="LOKAL usee//vidio",Lifetime
+http://topwin-tv.my.id/2/master.m3u8?id=lifetime
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="LOKAL usee//vidio",Entertainment: History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="LOKAL usee//vidio",National Geographic
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png" group-title="LOKAL usee//vidio",Nat Geo People
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="LOKAL usee//vidio",Nat Geo Wild
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="LOKAL usee//vidio",Discovery Channel
+http://topwin-tv.my.id/2/master.m3u8?id=disco
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="LOKAL usee//vidio",CGTN Documentary
+http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="LOKAL usee//vidio",Crime Investigation
+http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="LOKAL usee//vidio",History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+http://topwin-tv.my.id/2/master.m3u8?id=history2
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="LOKAL usee//vidio",HGTV
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+######## Kids ##########
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="LOKAL usee//vidio",Animax
+http://topwin-tv.my.id/2/master.m3u8?id=animax
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="LOKAL usee//vidio",Aniplus
+http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="LOKAL usee//vidio",My Kidz
+http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="LOKAL usee//vidio",Baby First
+http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="LOKAL usee//vidio",Horee
+http://topwin-tv.my.id/2/master.m3u8?id=horee
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="LOKAL usee//vidio",Boomerang
+http://topwin-tv.my.id/2/master.m3u8?id=boomerang
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="LOKAL usee//vidio",Cartoon Network
+http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="LOKAL usee//vidio",Dunia Anak
+http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="LOKAL usee//vidio", Nick Junior
+http://topwin-tv.my.id/2/master.m3u8?id=nickjr
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="LOKAL usee//vidio",Nickelodeon
+http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="LOKAL usee//vidio",Da Vinci Learning
+http://topwin-tv.my.id/2/master.m3u8?id=davinci
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="LOKAL usee//vidio",Dreamworks
+http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
+
 
 #EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",ANTARA TV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d210fb3069a97a8fb9df1d75e6456ecef11
@@ -202,205 +388,3 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="LOKAL usee//vidio", Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Channel
-https://tv.mbed.cc/disneych.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Channel
-https://tv.mbed.cc/disneychkr.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Junior
-https://tv.mbed.cc/disneyjr.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Junior (Kr)
-https://tv.mbed.cc/disneyjrkr.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Dreamworks
-https://tv.mbed.cc/dreamworks
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Duck TV
-https://tv.mbed.cc/ducktv.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Dunia Anak
-https://tv.mbed.cc/dunianak.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Eat & Go
-https://tv.mbed.cc/eatgo.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Flik
-https://tv.mbed.cc/flik.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nickelodeon
-https://tv.mbed.cc/nickelodeon.m3u8
-#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nickelodeon Jr
-https://tv.mbed.cc/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Lokal Usee//Vidio Backup",Trans 7
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal Usee//Vidio Backup",Trans TV
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="Lokal Usee//Vidio Backup",Indosiar
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
-http://topwin-tv.my.id/2/master.m3u8?id=indosiar
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="Lokal Usee//Vidio Backup",SCTV
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
-#EXTINF:0 tvg-id="Metro.pl" group-title="Lokal Usee//Vidio Backup",Metro TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=metro
-#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal Usee//Vidio Backup",NET TV
-http://dituduhmaling.xyz/US33T4/net.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=nettv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal Usee//Vidio Backup",Rajawali TV
-http://dituduhmaling.xyz/US33T4/rtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=rtv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal Usee//Vidio Backup",Kompas tv
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=kompastv
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",JITV
-http://dituduhmaling.xyz/US33T4/jitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jitv
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Insert
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
-http://topwin-tv.my.id/2/master.m3u8?id=insert
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",ANTARA TV
-http://dituduhmaling.xyz/US33T4/antara.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=antara
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal Usee//Vidio Backup",Usee Photo
-http://dituduhmaling.xyz/US33T4/useephoto.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useephoto
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal Usee//Vidio Backup",Usee Prime
-http://dituduhmaling.xyz/US33T4/useeprime.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useeprime
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",BALI TV
-http://dituduhmaling.xyz/US33T4/balitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=balitv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal Usee//Vidio Backup",JAK TV
-http://dituduhmaling.xyz/US33T4/jaktv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jaktv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal Usee//Vidio Backup",JTV
-http://dituduhmaling.xyz/US33T4/jtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jtv
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",TVRI
-http://dituduhmaling.xyz/US33T4/tvri.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=tvri
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",DAAI TV
-http://dituduhmaling.xyz/US33T4/daaitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=daaitv
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",MNC Shop
-http://dituduhmaling.xyz/US33T4/mncshop.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mncshop
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",My TV
-http://dituduhmaling.xyz/US33T4/mytv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mytv
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",ID Ku
-http://dituduhmaling.xyz/US33T4/idku.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=idku
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="Lokal Usee//Vidio Backup",Bioskop Indonesia
-http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="Lokal Usee//Vidio Backup",ZBioskop
-http://topwin-tv.my.id/2/master.m3u8?id=zbioskop
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="Lokal Usee//Vidio Backup",TVN
-http://topwin-tv.my.id/2/master.m3u8?id=tvn
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="Lokal Usee//Vidio Backup",TVN MOVIES
-http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="Lokal Usee//Vidio Backup",Thrill
-http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
-http://topwin-tv.my.id/2/master.m3u8?id=thrill
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cm.png" group-title="Lokal Usee//Vidio Backup",Celestial Movie
-http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cinemaworld.png" group-title="Lokal Usee//Vidio Backup",Cinema World
-http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/flik.png" group-title="Lokal Usee//Vidio Backup",Flik
-http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="Lokal Usee//Vidio Backup",Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="Lokal Usee//Vidio Backup",Galaxy Premium
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="Lokal Usee//Vidio Backup",IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Dunia Lain
-http://topwin-tv.my.id/2/master.m3u8?id=dunialain
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/warner.png" group-title="Lokal Usee//Vidio Backup",Warner
-http://topwin-tv.my.id/2/master.m3u8?id=warner
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Lokal Usee//Vidio Backup",Blue ant entertainmet
-http://topwin-tv.my.id/2/master.m3u8?id=blueant
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Lokal Usee//Vidio Backup",Blue ant extreme
-http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/axn.png" group-title="Lokal Usee//Vidio Backup",AXN
-http://topwin-tv.my.id/2/master.m3u8?id=axn
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/chinesedrama.png" group-title="Lokal Usee//Vidio Backup",Chinese Drama
-http://topwin-tv.my.id/2/master.m3u8?id=chinesedrama
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kix.png" group-title="Lokal Usee//Vidio Backup",KiX
-http://topwin-tv.my.id/2/master.m3u8?id=kix
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="Lokal Usee//Vidio Backup",Waku Waku Japan
-http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="Lokal Usee//Vidio Backup",K+
-http://topwin-tv.my.id/2/master.m3u8?id=kplus
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/gem.png" group-title="Lokal Usee//Vidio Backup",Sony GEM TV
-http://topwin-tv.my.id/2/master.m3u8?id=sgem
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/sonyone.png" group-title="Lokal Usee//Vidio Backup",Sony One
-http://topwin-tv.my.id/2/master.m3u8?id=sone
-#EXTINF:0 tvg-id="outdoor" group-title="Lokal Usee//Vidio Backup",Outdoor CHANNEL
-http://topwin-tv.my.id/2/master.m3u8?id=outdoor
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="Lokal Usee//Vidio Backup",KBS World
-http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="Lokal Usee//Vidio Backup",ABC Australia
-http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/lifetime.png" group-title="Lokal Usee//Vidio Backup",Lifetime
-http://topwin-tv.my.id/2/master.m3u8?id=lifetime
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Lokal Usee//Vidio Backup",Entertainment: History
-http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Ctiasia
-http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Lokal Usee//Vidio Backup",NHK World Japan
-http://topwin-tv.my.id/2/master.m3u8?id=nhkworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/arirang.png" group-title="Lokal Usee//Vidio Backup",Arirang
-http://topwin-tv.my.id/2/master.m3u8?id=arirang
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Lokal Usee//Vidio Backup",TV5Monde
-http://topwin-tv.my.id/2/master.m3u8?id=tv5monde
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png"  group-title="Lokal Usee//Vidio Backup", Entertainment: NHK Premium
-http://topwin-tv.my.id/2/master.m3u8?id=nhkpremium
-#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Lokal Usee//Vidio Backup",Bloomberg
-http://topwin-tv.my.id/2/master.m3u8?id=bloomberg
-#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Lokal Usee//Vidio Backup",Formosa
-http://topwin-tv.my.id/2/master.m3u8?id=formosa
-
-####### Entertainment ########
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Lokal Usee//Vidio Backup",National Geographic
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png" group-title="Lokal Usee//Vidio Backup",Nat Geo People
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Lokal Usee//Vidio Backup",Nat Geo Wild
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Lokal Usee//Vidio Backup",Discovery Channel
-http://topwin-tv.my.id/2/master.m3u8?id=disco
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Lokal Usee//Vidio Backup",CGTN Documentary
-http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="Lokal Usee//Vidio Backup",Crime Investigation
-http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Lokal Usee//Vidio Backup",History
-http://topwin-tv.my.id/2/master.m3u8?id=history
-http://topwin-tv.my.id/2/master.m3u8?id=history2
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lokal Usee//Vidio Backup",HGTV
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-######## Kids ##########
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="Lokal Usee//Vidio Backup",Animax
-http://topwin-tv.my.id/2/master.m3u8?id=animax
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Lokal Usee//Vidio Backup",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="Lokal Usee//Vidio Backup",My Kidz
-http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Lokal Usee//Vidio Backup",Baby First
-http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="Lokal Usee//Vidio Backup",Horee
-http://topwin-tv.my.id/2/master.m3u8?id=horee
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Lokal Usee//Vidio Backup",Boomerang
-http://topwin-tv.my.id/2/master.m3u8?id=boomerang
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Lokal Usee//Vidio Backup",Cartoon Network
-http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Lokal Usee//Vidio Backup",Dunia Anak
-http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Lokal Usee//Vidio Backup", Nick Junior
-http://topwin-tv.my.id/2/master.m3u8?id=nickjr
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Lokal Usee//Vidio Backup",Nickelodeon
-http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Lokal Usee//Vidio Backup",Da Vinci Learning
-http://topwin-tv.my.id/2/master.m3u8?id=davinci
-#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Lokal Usee//Vidio Backup",Dreamworks
-http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
