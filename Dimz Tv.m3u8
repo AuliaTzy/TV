@@ -53,25 +53,25 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut
-https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6587&b=6587
+http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain 1
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment
-https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6402&b=6402
+http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Bioskop Indonesia 1
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain
-https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==dunialain&b=14&c=dunialain
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="LOKAL usee//vidio",Eat&Go
 https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==eatgo&b=14&c=eatgo
 #EXTINF:-1 group-title="LOKAL usee//vidio",Bioskop Indonesia
-https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==bioskopindonesia&b=14&c=bioskopindonesia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Bioskop
-https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6684&b=6684
+http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Cartoon Network
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Drama
-https://cmt.mb13.cyou/8589/ku/see/uvf.m3u8?a=vidio-6401&b=6401
+http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut 1
