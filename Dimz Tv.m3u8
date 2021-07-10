@@ -202,3 +202,523 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="LOKAL usee//vidio", Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",&flix
+https://tv.mbed.cc/andflix.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",&picture
+https://tv.mbed.cc/andpicture.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",&prive
+https://tv.mbed.cc/andprive.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Achannel (Kr)
+https://tv.mbed.cc/achannelkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Ajwatv
+https://tv.mbed.cc/ajwatv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Aljazeera English
+https://tv.mbed.cc/aljazeera.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Aljazeera Arabic
+https://tv.mbed.cc/aljazeeraarabic.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Alquran (Makkah)
+https://tv.mbed.cc/alquran.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Anibox (Kr)
+https://tv.mbed.cc/aniboxkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Animax
+https://tv.mbed.cc/animax.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Animax (Kr)
+https://tv.mbed.cc/animax-kor.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Anione (Kr)
+https://tv.mbed.cc/anionekr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Aniplus
+https://tv.mbed.cc/aniplus.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Antv 
+https://tv.mbed.cc/antv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",A Plus (Kr)
+https://tv.mbed.cc/apluskr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Asia M (Kr)
+https://tv.mbed.cc/asia-mkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Asian TV (Kr)
+https://tv.mbed.cc/asiantvkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Axn
+https://tv.mbed.cc/axn.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Babyfirst
+https://tv.mbed.cc/babyfirst.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Beritasatu
+https://tv.mbed.cc/beritasatu.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Bioskop Indonesia
+https://tv.mbed.cc/bioskopindonesia.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Bloomberg
+https://tv.mbed.cc/bloomberg.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Blue Ant Entertaiment
+https://tv.mbed.cc/blueantent.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Blue Ant Extreme
+https://tv.mbed.cc/blueantextreme.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Boomerang
+https://tv.mbed.cc/boomerang.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Bravo Kids (Kr)
+https://tv.mbed.cc/bravokidskr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Cartoon Network
+https://tv.mbed.cc/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",CCTV4 (Cn)
+https://tv.mbed.cc/cctv4.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Celestial Movie 
+https://tv.mbed.cc/celestialmovie.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Cgtn Documentary
+https://tv.mbed.cc/cgtndocumentary.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Channel China (Kr)
+https://tv.mbed.cc/channelchinakr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Channel J (Kr)
+https://tv.mbed.cc/channelj.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Channel W (Kr)
+https://tv.mbed.cc/channelwkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Chinese Drama
+https://tv.mbed.cc/chinesedrama.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Cinema World
+https://tv.mbed.cc/cinemaworld.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",CNN Indonesia
+https://tv.mbed.cc/cnnindonesia.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Cti Asia (Cn)
+https://tv.mbed.cc/ctiasia.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Daai TV
+https://tv.mbed.cc/daaitv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Davinci
+https://tv.mbed.cc/davinci.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Discovery
+https://tv.mbed.cc/disco.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Channel
+https://tv.mbed.cc/disneych.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Channel
+https://tv.mbed.cc/disneychkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Junior
+https://tv.mbed.cc/disneyjr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Disney Junior (Kr)
+https://tv.mbed.cc/disneyjrkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Dreamworks
+https://tv.mbed.cc/dreamworks
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Duck TV
+https://tv.mbed.cc/ducktv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Dunia Anak
+https://tv.mbed.cc/dunianak.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Dunia Lain
+https://tv.mbed.cc/dunialain.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",DW
+https://tv.mbed.cc/dw.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",DW TV
+https://tv.mbed.cc/dwtv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Eat & Go
+https://tv.mbed.cc/eatgo.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Etv (Kr)
+https://tv.mbed.cc/etvkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Fashion TV
+https://tv.mbed.cc/fashiontv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Flik
+https://tv.mbed.cc/flik.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Formosa
+https://tv.mbed.cc/formosa.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",France
+https://tv.mbed.cc/france.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Fun TV (Kr)
+https://tv.mbed.cc/funtvkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Galaxy
+https://tv.mbed.cc/galaxy.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Galaxy Premium
+https://tv.mbed.cc/galaxypremium.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",GTV
+https://tv.mbed.cc/gtv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO (Multi)
+https://tv.mbed.cc/hbo.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO ID
+https://tv.mbed.cc/hboid.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Cinemax (Multi)
+https://tv.mbed.cc/hbocinemax.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Cinemax ID
+https://tv.mbed.cc/hbocinemaxid.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Family (Multi)
+https://tv.mbed.cc/hbofamily.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Family ID
+https://tv.mbed.cc/hbofamilyid.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Hits (Multi)
+https://tv.mbed.cc/hbohits.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Hits ID
+https://tv.mbed.cc/hbohits.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Red (Multi)
+https://tv.mbed.cc/hbored.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Red ID
+https://tv.mbed.cc/hboredid.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Signature (Multi)
+https://tv.mbed.cc/hbosignature.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HBO Signature ID
+https://tv.mbed.cc/hbosignatureid.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HGTV
+https://tv.mbed.cc/hgtv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",History
+https://tv.mbed.cc/history.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",History (Kr)
+https://tv.mbed.cc/historykr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Hits
+https://tv.mbed.cc/hits.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Hits Movie
+https://tv.mbed.cc/hitsmovie.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",IMC
+https://tv.mbed.cc/imc.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Indie Film (Kr)
+https://tv.mbed.cc/indiefilmkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Indosiar
+https://tv.mbed.cc/indosiar.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",INews
+https://tv.mbed.cc/inews.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Insight TV
+https://tv.mbed.cc/insighttv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Inwild TV
+https://tv.mbed.cc/inwildtv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Jak TV
+https://tv.mbed.cc/jaktv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",KBS Drama (Kr)
+https://tv.mbed.cc/kbsdramakr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",KBS Joy (Kr)
+https://tv.mbed.cc/kbsjoykr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",KBSN Live (Kr)
+https://tv.mbed.cc/kbsnlivekr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Kix
+https://tv.mbed.cc/kix.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Kompas TV
+https://tv.mbed.cc/kompastv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",K+
+https://tv.mbed.cc/kplus.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",KpopTV
+https://tv.mbed.cc/kpoptv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Lifetime
+https://tv.mbed.cc/lifetime.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Lifetime (Kr)
+https://tv.mbed.cc/lifetimekr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Lingua
+https://tv.mbed.cc/lingua.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Love Nature
+https://tv.mbed.cc/lovenature.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Love Nature (Vidio)
+https://tv.mbed.cc/lovenaturevidio.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBC Every 1 (Kr)
+https://tv.mbed.cc/mbcevery1kr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBC (Kr)
+https://tv.mbed.cc/mbckr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBC M (Kr)
+https://tv.mbed.cc/mbcmkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBC ON (Kr)
+https://tv.mbed.cc/mbconkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBN (Kr)
+https://tv.mbed.cc/mbnkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MBN+ (Kr)
+https://tv.mbed.cc/mbnpluskr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MetroTV
+https://tv.mbed.cc/metrotv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MNC TV
+https://tv.mbed.cc/mnc.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Movies X
+https://tv.mbed.cc/moviesx.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",MTV Live
+https://tv.mbed.cc/mtvlive.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup", MyTV
+https://tv.mbed.cc/mytv.m3u8
+N#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",abawi (Madinah)
+https://tv.mbed.cc/nabawi.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",National Geographic
+https://tv.mbed.cc/natgeo.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",National Geographic People
+https://tv.mbed.cc/natgeopeople.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",National Geographic Wild
+https://tv.mbed.cc/natgeowild.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Net TV
+https://tv.mbed.cc/net.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",NHK World
+https://tv.mbed.cc/nhkworld.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nickelodeon
+https://tv.mbed.cc/nickelodeon.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nickelodeon Jr
+https://tv.mbed.cc/nickjr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nusantara TV
+https://tv.mbed.cc/nusantaratv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",O Channel
+https://tv.mbed.cc/o-channel.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",O Shop
+https://tv.mbed.cc/o-shop.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Outdoor
+https://tv.mbed.cc/outdoor.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",PBS Kids
+https://tv.mbed.cc/pbskids.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Prambors TV
+https://tv.mbed.cc/pramborstv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",RCTI
+https://tv.mbed.cc/rcti.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Refored21
+https://tv.mbed.cc/refored21.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",SBS MTV (Kr)
+https://tv.mbed.cc/sbsmtvkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",SCTV
+https://tv.mbed.cc/sctv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Smithsonian
+https://tv.mbed.cc/smithsonian.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Sony Gem
+https://tv.mbed.cc/sgem.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Sony One
+https://tv.mbed.cc/sone.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Spacetoon
+https://tv.mbed.cc/spacetoon.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",The Movie (Kr)
+https://tv.mbed.cc/themoviekr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Thrill
+https://tv.mbed.cc/thrill
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Trans7
+https://tv.mbed.cc/trans7.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TransTV
+https://tv.mbed.cc/transtv.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TV 5 Monde
+https://tv.mbed.cc/tv5monde.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TV Chosun (Kr)
+https://tv.mbed.cc/tvchosunkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TVN
+https://tv.mbed.cc/tvn.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TVN (Kr)
+https://tv.mbed.cc/tvnkr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TVN Movies
+https://tv.mbed.cc/tvnmovies.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TVONE
+https://tv.mbed.cc/tvone.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",TVRI
+https://tv.mbed.cc/tvri.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",U Channel
+https://tv.mbed.cc/uchannel.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Waku-Waku
+https://tv.mbed.cc/wakuwaku.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",WeLike (Kr)
+https://tv.mbed.cc/welikekr.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Z-Bioskop
+https://tv.mbed.cc/zbioskop.m3u8
+
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",ANIMAX
+http://210.210.155.35/session/dd59f140-d277-11eb-acee-b1789cb5220f/dr9445/h/h144/01.m3u8?dl=1
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",ANIMAX (Link2)
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",CartoonNetwork
+https://usee.mbed.cc/cartoonnetwork.m3u8
+#EXTINF:-1 group-title=" CHANNEL LUAR ",AndFlixHD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title=" CHANNEL LUAR ",AndPriveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title=" CHANNEL LUAR ",Movie
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",BBC EARTH
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nat Geo
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nat Geo People (link2)
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nat Geo WILD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Nat Geo WILD (Link 2)
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",(HGTV Link2)
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62242
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Discovery Channel
+http://topwin-tv.my.id/2/master.m3u8?id=disco
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",History Channel
+https://usee.mbed.cc/history.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",History Channel (link 2)
+http://topwin-tv.my.id/2/master.m3u8?id=history
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Animal Planet 2
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Animal Planet 3
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Discovery ID
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Discovery Asia
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",CGTN Documentary
+http://210.210.155.35/session/d5d31794-d047-11eb-a36f-b9d9ba00d9b9/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",Discovery Science
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",LifeTime
+http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
+#EXTINF:-1 group-title="Lokal Usee//Vidio Backup",DW English
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Lokal Usee//Vidio Backup",Trans 7
+http://topwin-tv.my.id/2/master.m3u8?id=trans7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal Usee//Vidio Backup",Trans TV
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=transtv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="Lokal Usee//Vidio Backup",Indosiar
+https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
+http://topwin-tv.my.id/2/master.m3u8?id=indosiar
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="Lokal Usee//Vidio Backup",SCTV
+https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
+http://topwin-tv.my.id/2/master.m3u8?id=transtv
+#EXTINF:0 tvg-id="Metro.pl" group-title="Lokal Usee//Vidio Backup",Metro TV
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=metro
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal Usee//Vidio Backup",NET TV
+http://dituduhmaling.xyz/US33T4/net.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=nettv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal Usee//Vidio Backup",Rajawali TV
+http://dituduhmaling.xyz/US33T4/rtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=rtv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal Usee//Vidio Backup",Kompas tv
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=kompastv
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",JITV
+http://dituduhmaling.xyz/US33T4/jitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jitv
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Insert
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
+http://topwin-tv.my.id/2/master.m3u8?id=insert
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",ANTARA TV
+http://dituduhmaling.xyz/US33T4/antara.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=antara
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal Usee//Vidio Backup",Usee Photo
+http://dituduhmaling.xyz/US33T4/useephoto.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useephoto
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal Usee//Vidio Backup",Usee Prime
+http://dituduhmaling.xyz/US33T4/useeprime.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useeprime
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",BALI TV
+http://dituduhmaling.xyz/US33T4/balitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=balitv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal Usee//Vidio Backup",JAK TV
+http://dituduhmaling.xyz/US33T4/jaktv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jaktv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal Usee//Vidio Backup",JTV
+http://dituduhmaling.xyz/US33T4/jtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jtv
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",TVRI
+http://dituduhmaling.xyz/US33T4/tvri.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=tvri
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",DAAI TV
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=daaitv
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",MNC Shop
+http://dituduhmaling.xyz/US33T4/mncshop.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mncshop
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",My TV
+http://dituduhmaling.xyz/US33T4/mytv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mytv
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",ID Ku
+http://dituduhmaling.xyz/US33T4/idku.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=idku
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="Lokal Usee//Vidio Backup",Bioskop Indonesia
+http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="Lokal Usee//Vidio Backup",ZBioskop
+http://topwin-tv.my.id/2/master.m3u8?id=zbioskop
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="Lokal Usee//Vidio Backup",TVN
+http://topwin-tv.my.id/2/master.m3u8?id=tvn
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="Lokal Usee//Vidio Backup",TVN MOVIES
+http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="Lokal Usee//Vidio Backup",Thrill
+http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
+http://topwin-tv.my.id/2/master.m3u8?id=thrill
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cm.png" group-title="Lokal Usee//Vidio Backup",Celestial Movie
+http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cinemaworld.png" group-title="Lokal Usee//Vidio Backup",Cinema World
+http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/flik.png" group-title="Lokal Usee//Vidio Backup",Flik
+http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="Lokal Usee//Vidio Backup",Galaxy
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="Lokal Usee//Vidio Backup",Galaxy Premium
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="Lokal Usee//Vidio Backup",IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Dunia Lain
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/warner.png" group-title="Lokal Usee//Vidio Backup",Warner
+http://topwin-tv.my.id/2/master.m3u8?id=warner
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Lokal Usee//Vidio Backup",Blue ant entertainmet
+http://topwin-tv.my.id/2/master.m3u8?id=blueant
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Lokal Usee//Vidio Backup",Blue ant extreme
+http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/axn.png" group-title="Lokal Usee//Vidio Backup",AXN
+http://topwin-tv.my.id/2/master.m3u8?id=axn
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/chinesedrama.png" group-title="Lokal Usee//Vidio Backup",Chinese Drama
+http://topwin-tv.my.id/2/master.m3u8?id=chinesedrama
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kix.png" group-title="Lokal Usee//Vidio Backup",KiX
+http://topwin-tv.my.id/2/master.m3u8?id=kix
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="Lokal Usee//Vidio Backup",Waku Waku Japan
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="Lokal Usee//Vidio Backup",K+
+http://topwin-tv.my.id/2/master.m3u8?id=kplus
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/gem.png" group-title="Lokal Usee//Vidio Backup",Sony GEM TV
+http://topwin-tv.my.id/2/master.m3u8?id=sgem
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/sonyone.png" group-title="Lokal Usee//Vidio Backup",Sony One
+http://topwin-tv.my.id/2/master.m3u8?id=sone
+#EXTINF:0 tvg-id="outdoor" group-title="Lokal Usee//Vidio Backup",Outdoor CHANNEL
+http://topwin-tv.my.id/2/master.m3u8?id=outdoor
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="Lokal Usee//Vidio Backup",KBS World
+http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="Lokal Usee//Vidio Backup",ABC Australia
+http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/lifetime.png" group-title="Lokal Usee//Vidio Backup",Lifetime
+http://topwin-tv.my.id/2/master.m3u8?id=lifetime
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Lokal Usee//Vidio Backup",Entertainment: History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+#EXTINF:0 tvg-id="ext" group-title="Lokal Usee//Vidio Backup",Ctiasia
+http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Lokal Usee//Vidio Backup",NHK World Japan
+http://topwin-tv.my.id/2/master.m3u8?id=nhkworld
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/arirang.png" group-title="Lokal Usee//Vidio Backup",Arirang
+http://topwin-tv.my.id/2/master.m3u8?id=arirang
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Lokal Usee//Vidio Backup",TV5Monde
+http://topwin-tv.my.id/2/master.m3u8?id=tv5monde
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png"  group-title="Lokal Usee//Vidio Backup", Entertainment: NHK Premium
+http://topwin-tv.my.id/2/master.m3u8?id=nhkpremium
+#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Lokal Usee//Vidio Backup",Bloomberg
+http://topwin-tv.my.id/2/master.m3u8?id=bloomberg
+#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Lokal Usee//Vidio Backup",Formosa
+http://topwin-tv.my.id/2/master.m3u8?id=formosa
+
+####### Entertainment ########
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Lokal Usee//Vidio Backup",National Geographic
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png" group-title="Lokal Usee//Vidio Backup",Nat Geo People
+http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Lokal Usee//Vidio Backup",Nat Geo Wild
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Lokal Usee//Vidio Backup",Discovery Channel
+http://topwin-tv.my.id/2/master.m3u8?id=disco
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Lokal Usee//Vidio Backup",CGTN Documentary
+http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="Lokal Usee//Vidio Backup",Crime Investigation
+http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Lokal Usee//Vidio Backup",History
+http://topwin-tv.my.id/2/master.m3u8?id=history
+http://topwin-tv.my.id/2/master.m3u8?id=history2
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Lokal Usee//Vidio Backup",HGTV
+http://dituduhmaling.xyz/US33T4/hgtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=hgtv
+######## Kids ##########
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="Lokal Usee//Vidio Backup",Animax
+http://topwin-tv.my.id/2/master.m3u8?id=animax
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Lokal Usee//Vidio Backup",Aniplus
+http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="Lokal Usee//Vidio Backup",My Kidz
+http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Lokal Usee//Vidio Backup",Baby First
+http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="Lokal Usee//Vidio Backup",Horee
+http://topwin-tv.my.id/2/master.m3u8?id=horee
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Lokal Usee//Vidio Backup",Boomerang
+http://topwin-tv.my.id/2/master.m3u8?id=boomerang
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Lokal Usee//Vidio Backup",Cartoon Network
+http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Lokal Usee//Vidio Backup",Dunia Anak
+http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Lokal Usee//Vidio Backup", Nick Junior
+http://topwin-tv.my.id/2/master.m3u8?id=nickjr
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Lokal Usee//Vidio Backup",Nickelodeon
+http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Lokal Usee//Vidio Backup",Da Vinci Learning
+http://topwin-tv.my.id/2/master.m3u8?id=davinci
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Lokal Usee//Vidio Backup",Dreamworks
+http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
