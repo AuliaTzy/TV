@@ -35,9 +35,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
-http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",My TV
-http://dituduhmaling.xyz/US33T4/mytv.m3u8
+http://gpc.my.id/vidio/inews.m3u8 
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
