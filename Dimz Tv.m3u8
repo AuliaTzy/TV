@@ -34,21 +34,24 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV 1
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+http://gpc.my.id/vidio/inews.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",My TV
+http://dituduhmaling.xyz/US33T4/mytv.m3u8
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
-
+http://dituduhmaling.xyz/US33T4/net.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV
+http://dituduhmaling.xyz/US33T4/rtv.m3u8
 #EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Berita Satu 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
-
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+http://gpc.my.id/vidio/beritasatu.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Kompas tv
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
@@ -148,64 +151,44 @@ https://tv.mbed.cc/nickjr.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="LOKAL usee//vidio",Trans TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="LOKAL usee//vidio",Indosiar
 https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
-http://topwin-tv.my.id/2/master.m3u8?id=indosiar
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="LOKAL usee//vidio",SCTV
 https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
 #EXTINF:0 tvg-id="Metro.pl" group-title="LOKAL usee//vidio",Metro TV
 http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=metro
 #EXTINF:0 tvg-id="NETtv.svn" group-title="LOKAL usee//vidio",NET TV
 http://dituduhmaling.xyz/US33T4/net.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=nettv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="LOKAL usee//vidio",Rajawali TV
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=rtv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="LOKAL usee//vidio",Kompas tv
 http://dituduhmaling.xyz/US33T4/kompastv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=kompastv
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",JITV
 http://dituduhmaling.xyz/US33T4/jitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jitv
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",Insert
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
-http://topwin-tv.my.id/2/master.m3u8?id=insert
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",ANTARA TV
 http://dituduhmaling.xyz/US33T4/antara.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=antara
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="LOKAL usee//vidio",Usee Photo
 http://dituduhmaling.xyz/US33T4/useephoto.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useephoto
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="LOKAL usee//vidio",Usee Prime
 http://dituduhmaling.xyz/US33T4/useeprime.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useeprime
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",BALI TV
 http://dituduhmaling.xyz/US33T4/balitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=balitv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL usee//vidio",JAK TV
 http://dituduhmaling.xyz/US33T4/jaktv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jaktv
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL usee//vidio",JTV
 http://dituduhmaling.xyz/US33T4/jtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jtv
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",TVRI
 http://dituduhmaling.xyz/US33T4/tvri.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=tvri
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",DAAI TV
 http://dituduhmaling.xyz/US33T4/daaitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=daaitv
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",MNC Shop
 http://dituduhmaling.xyz/US33T4/mncshop.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mncshop
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",My TV
 http://dituduhmaling.xyz/US33T4/mytv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mytv
 #EXTINF:0 tvg-id="ext" group-title="LOKAL usee//vidio",ID Ku
 http://dituduhmaling.xyz/US33T4/idku.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=idku
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="LOKAL usee//vidio",Bioskop Indonesia
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="LOKAL usee//vidio",ZBioskop
