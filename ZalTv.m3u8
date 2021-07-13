@@ -72,7 +72,7 @@ http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment 1
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",FLiK
-https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==flik&b=15&c=flik
+http://topwin-tv.my.id/2/master.m3u8?id=flik
 #EXTINF:-1 group-title="LOKAL usee//vidio" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg",HBO
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO Hits
@@ -108,7 +108,7 @@ http://eroz84.wap.sh/movies/hbo_hits.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",HBO Family
-http://eroz84.wap.sh/movies/hbo_fam.m3u8
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",CINEMAX
