@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio" tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg",CINEMA WORD
-https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=flik
 #EXTINF:-1 group-title="LOKAL usee//vidio",HBO
 http://eroz84.wap.sh/movies/hbo.m3u8
 
@@ -124,7 +124,7 @@ https://tv.mbed.cc/disneyjr.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Eat & Go
 https://tv.mbed.cc/eatgo.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Flik
-https://tv.mbed.cc/flik.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=flik
 #EXTINF:-1 group-title="LOKAL usee//vidio",Nickelodeon
 https://tv.mbed.cc/nickelodeon.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Nickelodeon Jr
