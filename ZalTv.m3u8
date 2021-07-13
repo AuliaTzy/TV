@@ -41,6 +41,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",M Net  
+https://delivery-2.hypera.live/stream/mnet/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTI0IFNhZmFyaS81MzcuMzYiLCJpYXQiOjE2MjYxODI1MDUsImV4cCI6MTYyNjIwNDEwNX0.w5d0zY6VR_-8eZ8NWnTbwLRNk71sxo5uLc7uSxvlj7E
 #EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain 1
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment
