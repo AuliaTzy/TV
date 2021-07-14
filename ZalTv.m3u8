@@ -12,18 +12,18 @@ https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_dash/ANTV-radeo
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL usee//vidio",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1 
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
-http://gpc.my.id/vidio/inews.m3u8 
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
