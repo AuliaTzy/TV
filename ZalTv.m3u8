@@ -7,16 +7,13 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
 http://gpc.my.id/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
-https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
-http://nonton.wap.sh/id/001.m3u8
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOKAL usee//vidio",TV ONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
-#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV
 http://gpc.my.id/vidio/sctv.m3u8
-#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1 
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
-http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1
+https://visionplus-stream.visionplus.id/live/eds/SCTV-Intel/sa_dash/SCTCV-Intel.mpd
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
@@ -316,3 +313,4 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="LOKAL usee//vidio", Nat Geo Wild
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
+Qq6
