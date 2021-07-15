@@ -29,7 +29,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="Lokal",Metro TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-metrotv
-#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="Lokal", MetroTV 
+#EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="Lokal", Metro TV ID
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-777
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-net
@@ -45,7 +45,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-beritasatu
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6165
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Lokal",Kompas tv
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-kompastv
-#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="Lokal", Kompas 
+#EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="Lokal", Kompas TV ID 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-874
 #EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="Lokal",JITV 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-jitv
@@ -61,7 +61,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-useeinfo
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-useephoto
 #EXTINF:-1 tvg-id="useeprime" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="Lokal",Usee Prime
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-useeprime
-#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal",BALI TV 
+#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal",Bali TV ID
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-balitv
 #EXTINF:-1 tvg-id="jaktv" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="Lokal",JAK TV 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-jaktv
@@ -102,7 +102,7 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=dunialain
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6401
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="Entertainment", Citra Dangdut 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6587
-#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment", Blue ant entertainmet
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment", Blue Ant Entertainment ID
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=blueant
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment", Blue ant extreme
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=blueantextreme
@@ -124,7 +124,7 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=animax
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-abcaustralia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Entertainment", Lifetime 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=lifetime
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="Entertainment", Ctiasia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="Entertainment", CTI Asia
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=ctiasia
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Entertainment", CCTV4 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-cctv4
@@ -146,7 +146,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png",Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",RED by HBO ID
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 #EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=hbo
@@ -156,7 +156,7 @@ http://home-tv.web.id/RHS/hbo.m3u8?channel=sig
 http://home-tv.web.id/RHS/hbo.m3u8?channel=fam
 #EXTINF:-1 tvg-id="hbohits" tvg-name="hbohits" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies",HBO HITS 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=hits
-#EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies",Movies RED 
+#EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies",RED by HBO
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies",CINEMAX by HBO 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=max
@@ -174,7 +174,7 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=cinemaworld
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=flik
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=galaxy
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium ID
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=galaxypremium
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=imc
@@ -188,7 +188,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge", Love Nature 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6635
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", National Geographic ID 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=natgeo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", Nat Geo People
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=natgeopeople
@@ -196,7 +196,7 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=natgeopeople
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=natgeowild
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge", Discovery Channel 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge", CGTN Documentary ID 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-cgtndocumentary
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge", Crime Investigation
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-crimeinvestigation
@@ -214,7 +214,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-indishopping
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="Lifestyle", M Shop 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-mncshop
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat and Go 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=eatgo
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="Lifestyle", Asian Food Network 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=afc
@@ -228,13 +228,13 @@ https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 //KIDS
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="Kids", M Kidz 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-mykids
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", HipHip Horee 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="Kids", Hip Hip Horee ID 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-7052
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids", Baby First 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=babyfirst
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids", Boomerang 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=boomerang
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network ID 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids", Dunia Anak 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=duniaanak
