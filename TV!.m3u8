@@ -51,6 +51,8 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-874
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-jitv
 #EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="Lokal",Insert 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-insert
+#EXTINF:-1 tvg-id="insert" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="Lokal",Insert 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
 #EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="Lokal",ANTARA TV 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-id="useeinfo" tvg-name="Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Lokal",Ruang Terampil 
