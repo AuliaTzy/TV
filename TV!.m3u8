@@ -11,7 +11,7 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=indosiar
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="Lokal",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Lokal",TVONE ID
 http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal",SCTV (FTV)
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
@@ -33,7 +33,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-metrotv
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-777
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-net
-#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="Lokal", NET 
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="Lokal", Net TV ID 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-875
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Lokal",Rajawali TV 
 https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-rtv
