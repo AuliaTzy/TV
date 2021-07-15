@@ -132,17 +132,29 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=usee-arirang
 https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 //MOVIES
-#EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO FHD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg",HBO
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=hbo
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="hbosig" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movies",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="hbosig" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movies",HBO SIGNATURE 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=sig
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="hbofm" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movies",HBO FAMILY FHD
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="hbofm" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movies",HBO FAMILY 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=fam
-#EXTINF:-1 tvg-id="hbohits" tvg-name="hbohits" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies",HBO HITS FHD
+#EXTINF:-1 tvg-id="hbohits" tvg-name="hbohits" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies",HBO HITS 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=hits
-#EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies",Movies RED FHD
+#EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies",Movies RED 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red
-#EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies",CINEMAX by HBO FHD
+#EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies",CINEMAX by HBO 
 http://home-tv.web.id/RHS/hbo.m3u8?channel=max
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=bioskopindonesia
