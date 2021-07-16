@@ -14,7 +14,7 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon
 #EXTINF:-1 tvg-id="tvone" tvg-name="tvone" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Lokal",TVONE ID
 http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal",SCTV (FTV)
-https://visionplus-stream.visionplus.id/live/eds/SCTV-Intel/sa_dash/SCTV-Intel.mpd
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal",SCTV
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=sctv
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="Lokal", SCTV 
