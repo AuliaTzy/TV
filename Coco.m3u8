@@ -112,3 +112,15 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="MOVIES//HIBURAN",IMC
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg",HBO
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
