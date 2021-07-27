@@ -108,15 +108,15 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-#EXTINF:-1 group-title=""Backup Tv"",Citra Dangdut"
+#EXTINF:-1 group-title="Backup Tv",Citra Dangdut"
 http://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 group-title=""Backup Tv"",Dunia Lain"
+#EXTINF:-1 group-title="Backup Tv",Dunia Lain"
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
-#EXTINF:-1 group-title=""Backup Tv"",Citra Entertainment"
+#EXTINF:-1 group-title="Backup Tv",Citra Entertainment"
 http://gpc.my.id/vidio/citra-entertainment.m3u8
-#EXTINF:-1 group-title=""Backup Tv"",Bioskop Indonesia"
+#EXTINF:-1 group-title="Backup Tv",Bioskop Indonesia"
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 group-title=""Backup Tv"",Dunia Lain"
+#EXTINF:-1 group-title="Backup Tv",Dunia Lain"
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Backup Tv",Citra Bioskop
 http://gpc.my.id/vidio/citra-bioskop.m3u8
