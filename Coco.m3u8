@@ -60,12 +60,10 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="KIDS usee//vidio",Nickelodeon 
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KIDS usee//vidio",Nick Jr
-https://raw.githubusercontent.com/AuliaTzy/TV/main/LOKAL/Coco.mpd%3Fchannel%3Drcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KIDS usee//vidio",Nick Jr
+https://raw.githubusercontent.com/AuliaTzy/TV/main/rcti.mpd
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra Bioskop
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6684
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra DRAMA 
