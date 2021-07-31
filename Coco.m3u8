@@ -44,26 +44,6 @@ http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="KIDS usee//vidio",ANIPLUS
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-#EXTINF:-1 group-title="KIDS usee//vidio",Disney CHANNEL ID
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KIDS usee//vidio",Disney Junior ID
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KIDS usee//vidio",KIDS TV
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="KIDS usee//vidio",Nickelodeon 
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS usee//vidio",Nick Jr
-https://raw.githubusercontent.com/AuliaTzy/TV/main/rcti.mpd
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra Bioskop
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6684
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra DRAMA 
@@ -133,11 +113,11 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/44
 #EXTINF:-1 group-title="Backup Tv",MNCTV
 https://link.zozotv.xyz:443/Freemium4/unlimited99/49
 #EXTINF:-1 group-title="Backup Tv",NET TV
-https://home-tv.web.id/RHS/y0utube.m3u8?channel=usee-net
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-net
 #EXTINF:-1 group-title="Backup Tv",Rajawali TV 
-https://home-tv.web.id/RHS/y0utube.m3u8?channel=usee-rtv
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-rtv
 #EXTINF:-1 group-title="Backup Tv",MyTV
-https://home-tv.web.id/RHS/y0utube.m3u8?channel=vidio-6711
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6711
 #EXTINF:-1 group-title="Backup Tv",Cinemax
 https://link.zozotv.xyz:443/Freemium3/unlimited99/107
 #EXTINF:-1 group-title="Backup Tv",HBO
