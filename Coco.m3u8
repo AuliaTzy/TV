@@ -86,13 +86,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Backup Tv",Citra Bioskop
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 group-title="Backup Tv",SCTV
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=sctv
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.mpd.m3u8?channel=sctv
 #EXTINF:-1 group-title="Backup Tv",RCTI
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-665
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-665
 #EXTINF:-1 group-title="Backup Tv",GTV
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-778
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-778
 #EXTINF:-1 group-title="Backup Tv",Indosiar
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.mpd.m3u8?channel=indosiar
 #EXTINF:-1 group-title="Backup Tv",TRANS TV
 https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-transtv
 #EXTINF:-1 group-title="Backup Tv",TRANS 7
@@ -100,11 +100,11 @@ https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111
 #EXTINF:-1 group-title="Backup Tv",MNCTV
 https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-870
 #EXTINF:-1 group-title="Backup Tv",NET TV
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-net
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-net
 #EXTINF:-1 group-title="Backup Tv",Rajawali TV 
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-rtv
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-rtv
 #EXTINF:-1 group-title="Backup Tv",MyTV
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6711
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6711
 #EXTINF:0 group-title="Backup Tv" tvg-name="Red By HBO" tvg-logo="http://aputra.xyz/localhost/chhn/red_by_hbo.jpg" ,Red By HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0 group-title="Backup Tv" tvg-name="CINEMAX" tvg-logo="http://aputra.xyz/localhost/chhn/cinemax.jpg" ,CINEMAX
