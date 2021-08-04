@@ -6,7 +6,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar 
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar 1
-https://link.zozotv.xyz:443/Freemium3/unlimited99/45
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-205
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV 1
@@ -16,25 +16,27 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV
 http://gpc.my.id/vidio/sctv.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1
-https://link.zozotv.xyz:443/Freemium3/unlimited99/46
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=sctv
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI 1
-https://link.zozotv.xyz:443/Freemium3/unlimited99/47
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
 http://gpc.my.id/vidio/mnc.m3u8
-#EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
-https://link.zozotv.xyz:443/Freemium3/unlimited99/49
+#EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV 1
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-870
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV
 http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV 1
-https://link.zozotv.xyz:443/Freemium3/unlimited99/48
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-778
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews
 http://gpc.my.id/vidio/inews.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL usee//vidio", Inews 1
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-5409
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
-https://link.zozotv.xyz:443/Freemium3/unlimited99/50
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-net
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
 #EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Berita Satu 
@@ -44,6 +46,8 @@ http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrqmfDgX/jitv-logo.png" group-title="LOKAL usee//vidio", JITV Yogyakarta
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra Bioskop
 https://home-tv.web.id/RHS/280621.m3u8?channel=vidio-6684
 #EXTINF:-1 group-title="MOVIES//HIBURAN",Citra DRAMA 
@@ -56,23 +60,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 group-title="MOVIES//HIBURAN",FLiK
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
-#EXTINF:-1 group-title="MOVIES//HIBURAN",Cinemax
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1 group-title="MOVIES//HIBURAN",HBO
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="MOVIES//HIBURAN",HBO family
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 group-title="MOVIES//HIBURAN",HBO HiTS
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 group-title="MOVIES//HIBURAN",HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="MOVIES//HIBURAN",IMC
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg",HBO
 https://gratismkctv.net/film/hbo.m3u8
@@ -86,13 +73,13 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="MOVIES//HIBURAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-#EXTINF:-1 group-title="Backup Tv",Citra Dangdut"
+#EXTINF:-1 group-title="Backup Tv",Citra Dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 group-title="Backup Tv",Dunia Lain"
+#EXTINF:-1 group-title="Backup Tv",Dunia Lain
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
-#EXTINF:-1 group-title="Backup Tv",Citra Entertainment"
+#EXTINF:-1 group-title="Backup Tv",Citra Entertainment
 http://gpc.my.id/vidio/citra-entertainment.m3u8
-#EXTINF:-1 group-title="Backup Tv",Bioskop Indonesia"
+#EXTINF:-1 group-title="Backup Tv",Bioskop Indonesia
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 group-title="Backup Tv",Dunia Lain"
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
@@ -107,26 +94,27 @@ https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111
 #EXTINF:-1 group-title="Backup Tv",Indosiar
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
 #EXTINF:-1 group-title="Backup Tv",TRANS TV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/43
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-transtv
 #EXTINF:-1 group-title="Backup Tv",TRANS 7
-https://link.zozotv.xyz:443/Freemium4/unlimited99/44
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-734
 #EXTINF:-1 group-title="Backup Tv",MNCTV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/49
+https://home-tv.web.id/RHS/11111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-870
 #EXTINF:-1 group-title="Backup Tv",NET TV
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-net
 #EXTINF:-1 group-title="Backup Tv",Rajawali TV 
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=usee-rtv
 #EXTINF:-1 group-title="Backup Tv",MyTV
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111111111111111111111.m3u8?channel=vidio-6711
-#EXTINF:-1 group-title="Backup Tv",Cinemax
-https://link.zozotv.xyz:443/Freemium3/unlimited99/107
-#EXTINF:-1 group-title="Backup Tv",HBO
-https://link.zozotv.xyz:443/Freemium3/unlimited99/96
-#EXTINF:-1 group-title="Backup Tv",HBO Hits
-https://link.zozotv.xyz:443/Freemium3/unlimited99/97
-#EXTINF:-1 group-title="Backup Tv",HBO Family
-https://link.zozotv.xyz:443/Freemium3/unlimited99/98
-#EXTINF:-1 group-title="Backup Tv",HBO Signature
-https://link.zozotv.xyz:443/Freemium3/unlimited99/99
-#EXTINF:-1 group-title="Backup Tv",Boomerang
-https://link.zozotv.xyz:443/Freemium3/unlimited99/135
+#EXTINF:0 group-title="Backup Tv" tvg-name="Red By HBO" tvg-logo="http://aputra.xyz/localhost/chhn/red_by_hbo.jpg" ,Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 group-title="Backup Tv" tvg-name="CINEMAX" tvg-logo="http://aputra.xyz/localhost/chhn/cinemax.jpg" ,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:0 group-title="Backup Tv" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 group-title="Backup Tv" tvg-name="HBO Family" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_famiy.png" ,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0 group-title="Backup Tv" tvg-name="HBO Hits" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_hits.png" ,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0 group-title="Backup Tv" tvg-name="HBO Signature" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_signature.png" ,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
