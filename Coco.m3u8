@@ -117,7 +117,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 group-title="Backup Tv" tvg-name="HBO Signature" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_signature.png" ,HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 group-title="Kids", "tvg-logo="http://kamiselaluada.com/img/cartoonnetwork.png",Cartoon Network 
+#EXTINF:0 group-title="Kids", tvg-logo="http://kamiselaluada.com/img/cartoonnetwork.png",Cartoon Network 
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
