@@ -49,8 +49,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checked
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain 
-https://coco-my-id.000webhostapp.com/US44/dunialain.m3u8%3fid=dunialain&bandwidth=default&sync=0
+https://coco-my-id.000webhostapp.com/US44/dunialain.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 group-title="LOKAL usee//vidio",Bioskop Indonesia 
-https://coco-my-id.000webhostapp.com/US44/bioskopindonesia.m3u8
+https://coco-my-id.000webhostapp.com/US44/bioskopindo.m3u8
