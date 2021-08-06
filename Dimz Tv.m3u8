@@ -22,7 +22,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV 1 
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+https://coco-my-id.000webhostapp.com/V1D1O/Rcti.mpd
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI 1
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
