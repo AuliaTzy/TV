@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS TV
+https://coco-my-id.000webhostapp.com/usee/transtv.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",TRANS 7
+https://coco-my-id.000webhostapp.com/usee/trans7.m3u8
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar 
+https://coco-my-id.000webhostapp.com/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar (Usee)
+https://coco-my-id.000webhostapp.com/usee/indosiar.m3u8
+#EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV
+https://coco-my-id.000webhostapp.com/vidio/sctv.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV (Usee)
+https://coco-my-id.000webhostapp.com/US44/sctv.m3u8
+#EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV (Dens)
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI 
+https://coco-my-id.000webhostapp.com/vidio/rcti.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
+https://coco-my-id.000webhostapp.com/vidio/mnctv.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL usee//vidio", Global TV 
+https://coco-my-id.000webhostapp.com/vidio/gtv.m3u8
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV
+https://coco-my-id.000webhostapp.com/vidio/nettv.m3u8
+#EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",NET TV (Usee)
+https://coco-my-id.000webhostapp.com/usee/net-tv.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL usee//vidio",Rajawali TV
+https://coco-my-id.000webhostapp.com/vidio/rtv.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="" group-title="LOKAL usee//vidio",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+#EXTINF:-1 group-title="LOKAL usee//vidio",Bioskop Indonesia 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Drama
+https://coco-my-id.000webhostapp.com/vidio/citradrama.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Entertainment
+https://coco-my-id.000webhostapp.com/vidio/citraenter.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Bioskop
+https://coco-my-id.000webhostapp.com/vidio/citrabioskop.m3u8
+#EXTINF:-1 group-title="LOKAL usee//vidio",Citra Dangdut
+https://coco-my-id.000webhostapp.com/vidio/citradangdut.m3u8
