@@ -8,15 +8,15 @@ https://coco-my-id.000webhostapp.com/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",Indosiar (Usee)
 https://coco-my-id.000webhostapp.com/usee/indosiar.m3u8
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV
-https://coco-my-id.000webhostapp.com/vision+/antv.m3u8
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL usee//vidio",ANTV (Dens)
-https://coco-my-id.000webhostapp.com/denstv/antv.m3u8
+http://210.210.155.35/qwr9ew/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV
 https://coco-my-id.000webhostapp.com/vidio/sctv.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV (Usee)
 https://coco-my-id.000webhostapp.com/US44/sctv.m3u8
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="LOKAL usee//vidio",SCTV (Dens)
-https://coco-my-id.000webhostapp.com/denstv/sctv.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL usee//vidio", RCTI 
 https://coco-my-id.000webhostapp.com/vidio/rcti.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL usee//vidio", MNC TV
