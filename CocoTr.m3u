@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lokal",TRANS TV
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
+#EXTINF:-1 group-title="Lokal", TRANS TV (Vidio)
+http://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 group-title="Lokal",TRANS 7
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=trans7
+#EXTINF:-1 group-title="Lokal", TRANS 7 (Vidio)
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 group-title="Lokal",Indosiar (Vidio)
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 group-title="Lokal",Indosiar (Usee)
+http://dituduhmaling.xyz/US33T4/indosiar.m3u8
+#EXTINF:-1 group-title="Lokal",ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 group-title="Lokal",TV ONE
+http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 group-title="Lokal",SCTV (V+)
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Lokal",SCTV (Vidio)
+http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 group-title="Lokal",SCTV (Usee)
+http://dituduhmaling.xyz/US33T4/sctv.m3u8
+#EXTINF:-1 group-title="Lokal",SCTV (Dens)
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="Lokal",RCTI (V+)
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Lokal",RCTI
+https://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 group-title="Lokal",MNC TV
+http://gpc.my.id/vidio/mnc.m3u8
+#EXTINF:-1 group-title="Lokal",GTV
+https://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 group-title="Lokal",INEWS (Vidio)
+https://gpc.my.id/vidio/inews.m3u8
+#EXTINF:-1 group-title="Lokal",INEWS (Usee)
+http://dituduhmaling.xyz/US33T4/inews.m3u8
+#EXTINF:-1 group-title="Lokal",NET (V+)
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Lokal",NET TV (Vidio)
+https://gpc.my.id/vidio/net-tv.m3u8
+#EXTINF:-1 group-title="Lokal",NET TV (Usee)
+https://coco-my-id.000webhostapp.com/usee/net-tv.m3u8
+#EXTINF:-1 group-title="Lokal",RAJAWALI TV (Vidio)
+https://gpc.my.id/vidio/rtv.m3u8
+#EXTINF:-1 group-title="Lokal",RAJAWALI TV (Usee)
+http://dituduhmaling.xyz/US33T4/rtv.m3u8
+#EXTINF:-1 group-title="Lokal",METRO TV
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 group-title="Lokal",KOMPAS TV
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 group-title="Lokal",TVRI
+http://gpc.my.id/vidio/tvri.m3u8
+#EXTINF:-1 group-title="Lokal",TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 group-title="Lokal",JTV
+http://dituduhmaling.xyz/US33T4/jtv.m3u8
+#EXTINF:-1 group-title="Lokal",MY TV
+http://gpc.my.id/vidio/mytv.m3u8
+#EXTINF:-1 group-title="Lokal",DAAI TV
+http://gpc.my.id/vidio/daai-tv.m3u8
+#EXTINF:-1 group-title="Hiburan",Dunia Lain 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+#EXTINF:-1 group-title="Hiburan",Citra Entertainment 
+http://gpc.my.id/vidio/citra-entertainment.m3u8
+#EXTINF:-1 group-title="Hiburan",Citra Drama
+http://gpc.my.id/vidio/citra-drama.m3u8
+#EXTINF:-1 group-title="Hiburan",Citra Bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 group-title="Hiburan",Citra Muslim
+https://gpc.my.id/vidio/citra-muslim.m3u8
+#EXTINF:-1 group-title="Hiburan",Citra Dangdut
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 group-title="Hiburan",Bioskop Indonesia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-1 group-title="Hiburan",Flik
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+#EXTINF:-1 group-title="Hiburan",Imc
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+#EXTINF:-1 group-title="Hiburan",Animax
+http://210.210.155.35/session/25191cd6-0036-11ec-a7c0-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="Hiburan",Aniplus
+http://210.210.155.35/session/06222f3e-0036-11ec-a7c0-c81f66f89318/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Hiburan",Hbo
+https://coco-my-id.000webhostapp.com/hbo/hbo.m3u8
+#EXTINF:-1 group-title="Hiburan",Hbo Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Hiburan",Hbo Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Hiburan",Hbo Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Hiburan",Cinemax
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Knowledge",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",Smithsonian 
+http://gpc.my.id/vidio/smithsonian.m3u8
+#EXTINF:-1 group-title="Knowledge",Love Nature
+http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 group-title="Knowledge",National Geographic 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
+#EXTINF:-1 group-title="Knowledge",Nat Geo People
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeopeople
+#EXTINF:-1 group-title="Knowledge",Nat Geo Wild 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
+#EXTINF:-1 group-title="Knowledge",History
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=history
