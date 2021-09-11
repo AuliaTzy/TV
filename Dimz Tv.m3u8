@@ -1,10 +1,3 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=gYHkKSnT9i4dc6noiP3LTA&exp=1631384729&tvcode=dunialain&uid=3000107&utoken=ZTFhZGE5NjhmZmE3MzUwNzgwYWI0NzNkMGY3YWE2NDk=
-#EXTINF:-1 group-title="LOKAL usee//vidio",Dunia Lain
-https://cdn12jtedge.useetv.com/dass/130/dunialain_dash/manifest_wuseetv.mpd?encp=Cm5b7zALCPo96xjaxe5Guw&uid=ZTFhZGE5NjhmZmE3MzUwNzgwYWI0NzNkMGY3YWE2NDk=&expp=1631390129
-https://cdn12jtedge.useetv.com/dass/130/dunialain_dash/segment_ctvideo_cfm4s_ridp0va0br960000_cs396509458950_w1909429917_mpd.m4s
-#EXTINF:-1 group-title="LOKAL usee//vidio",Eat&Go
-https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==eatgo&b=14&c=eatgo
-#EXTINF:-1 group-title="LOKAL usee//vidio",Bioskop Indonesia
-https://cmt.mb13.cyou/8589/ku/see/ucf.m3u8?a==bioskopindonesia&b=14&c=bioskopindonesia
+#EXTINF:-1 group-title="LOKAL YT",Net Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631407178/ei/6vc8YafVBcPL4-EPh7S96Ao/ip/103.83.93.152/id/bbhB7oBDulA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOnPH0R3SWVQrW2PeOAyvH5FTC5xRP_tNjahgYNZ_M3VAiAnBliMXLSHUdtTz37wvjOmpzvms47inhsMK7BCEL68uQ%3D%3D/file/index.m3u
