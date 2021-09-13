@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lokal",TRANS TV
+coco-my-id.000webhostapp.com/usee/transtv.m3u8
+#EXTINF:-1 group-title="Lokal", TRANS TV (Vidio)
+https://s.id/Mycoco-transtv
+#EXTINF:-1 group-title="Lokal",TRANS 7
+coco-my-id.000webhostapp.com/usee/trans7.m3u8
+#EXTINF:-1 group-title="Lokal", TRANS 7 (Vidio)
+https://s.id/Mycoco-trans7
+#EXTINF:-1 group-title="Lokal",Indosiar (Vidio)
+https://s.id/Mycoco-indosiar
+#EXTINF:-1 group-title="Lokal",Indosiar (Usee)
+coco-my-id.000webhostapp.com/usee/indosiar.m3u8
+#EXTINF:-1 group-title="Lokal",ANTV
+https://s.id/Mycoco-antv
+#EXTINF:-1 group-title="Lokal",TV ONE
+https://s.id/Mycoco-tvone
+#EXTINF:-1 group-title="Lokal",SCTV (Vidio)
+https://s.id/Mycoco-sctv
+#EXTINF:-1 group-title="Lokal",SCTV (Usee)
+https://coco-my-id.000webhostapp.com/usee/sctv.m3u8
+#EXTINF:-1 group-title="Lokal",SCTV (Dens)
+https://s.id/Mycoco-sctv-dens
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal",SCTV (V+)
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+#EXTINF:-1 group-title="Lokal",RCTI+
+https://s.id/Mycoco-rcti-plus
+#EXTINF:-1 group-title="Lokal",RCTI
+https://s.id/Mycoco-rcti
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal",RCTI (V+)
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd 
+#EXTINF:-1 group-title="Lokal",MNC TV +
+https://s.id/Mycoco-mnc-plus
+#EXTINF:-1 group-title="Lokal",MNC TV
+https://s.id/Mycoco-mnc
+#EXTINF:-1 group-title="Lokal",GTV+
+https://s.id/Mycoco-gtv-plus
+#EXTINF:-1 group-title="Lokal",GTV
+https://s.id/Mycoco-gtv
+#EXTINF:-1 group-title="Lokal",INEWS+
+https://s.id/Mycoco-inews
+#EXTINF:-1 group-title="Lokal",INEWS 
+https://s.id/Mycoco-inews
+#EXTINF:-1 group-title="Lokal",INEWS (Usee)
+https://coco-my-id.000webhostapp.com/usee/inews.m3u8
+#EXTINF:-1 group-title="Lokal",NET TV
+https://s.id/Mycoco-net
+#EXTINF:-1 group-title="Lokal",NET TV (Usee)
+https://coco-my-id.000webhostapp.com/usee/net-tv.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal",NET (V+)
+https://s.id/Mycoco-netyt
+#EXTINF:-1 group-title="Lokal",RAJAWALI TV (Vidio)
+https://s.id/Mycoco-rtv
+#EXTINF:-1 group-title="Lokal",RAJAWALI TV (Usee)
+https://coco-my-id.000webhostapp.com/usee/rtv.m3u8
+#EXTINF:-1 group-title="Lokal",METRO TV
+https://s.id/Mycoco-metrotv
+#EXTINF:-1 group-title="Lokal",Kompas Tv
+https://s.id/Mycoco-kompastv
+#EXTINF:-1 group-title="Lokal",TVRI
+https://s.id/Mycoco-tvri
+#EXTINF:-1 group-title="Lokal",TVRI YOGYAKARTA
+https://s.id/Mycoco-tvri-yogyakarta
+#EXTINF:-1 group-title="Lokal",JTV
+https://s.id/Mycoco-jtv
+#EXTINF:-1 group-title="Lokal",MY TV
+https://s.id/Mycoco-mytv
+#EXTINF:-1 group-title="Lokal",DAAI TV
+https://s.id/Mycoco-daaitv
+#EXTINF:-1 group-title="Hiburan",Citra Entertainment 
+https://s.id/Mycoco-citraenter
+#EXTINF:-1 group-title="Hiburan",Citra Drama
+https://s.id/Mycoco-citradrama
+#EXTINF:-1 group-title="Hiburan",Citra Bioskop
+https://s.id/Mycoco-citrabioskop
+#EXTINF:-1 group-title="Hiburan",Citra Muslim
+https://s.id/Mycoco-citramuslim
+#EXTINF:-1 group-title="Hiburan",Citra Dangdut
+https://s.id/Mycoco-citradangdut
+#EXTINF:-1 group-title="Hiburan Coco", Dunia Lain 
+https://s.id/Mycoco-dunialain
+#EXTINF:-1 group-title="Hiburan Coco", Bioskop Indonesia
+https://s.id/Mycoco-bioskopindonesia
+#EXTINF:-1 group-title="Hiburan",Flik
+https://s.id/Mycoco-flik
+#EXTINF:-1 group-title="Hiburan",Imc
+https://s.id/Mycoco-imc
+#EXTINF:-1 group-title="Hiburan",Animax
+https://s.id/Mycoco-animax
+#EXTINF:-1 group-title="Hiburan",Aniplus
+https://s.id/Mycoco-aniplus
+#EXTINF:-1 group-title="Hiburan",Hbo
+https://coco-my-id.000webhostapp.com/hbo/hbo.m3u8
+#EXTINF:-1 group-title="Hiburan",Hbo Family
+https://coco-my-id.000webhostapp.com/hbo/family.m3u8
+#EXTINF:-1 group-title="Hiburan",Hbo Signature
+https://coco-my-id.000webhostapp.com/hbo/signature.m3u8
+#EXTINF:-1 group-title="Hiburan",Hbo Hits
+https://coco-my-id.000webhostapp.com/hbo/hits.m3u8
+#EXTINF:-1 group-title="Hiburan",Cinemax
+https://coco-my-id.000webhostapp.com/hbo/cinemax.m3u8
+#EXTINF:-1 group-title="Hiburan",Red By Hbo
+https://coco-my-id.000webhostapp.com/hbo/redhbo.m3u8
+#EXTINF:-1 group-title="Knowledge",Bisnet Adventure 4K
+https://s.id/Mycoco-biznetadven
+#EXTINF:-1 group-title="Knowledge",Smithsonian 
+https://s.id/Mycoco-smithsonian
+#EXTINF:-1 group-title="Knowledge",Love Nature
+https://s.id/Mycoco-lovenature
+#EXTINF:-1 group-title="Knowledge",National Geographic 
+https://s.id/Mycoco-natgeo
+#EXTINF:-1 group-title="Knowledge",Nat Geo People
+https://s.id/Mycoco-natgeopeople
+#EXTINF:-1 group-title="Knowledge",Nat Geo Wild 
+https://s.id/Mycoco-natgeowild
+#EXTINF:-1 group-title="Knowledge",History
+https://s.id/Mycoco-natgeowild
